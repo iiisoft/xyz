@@ -1,0 +1,3296 @@
+{
+  "data": {
+    "app_id": 60014,
+    "controller": [
+      {
+        "ad": [
+          {
+            "placement_app_id": "ca-app-pub-3935620297880745",
+            "placement_id": "ca-app-pub-3935620297880745/3738907119",
+            "platform_id": 50002
+          },
+          {
+            "placement_app_id": "41e50c828f714d82b09ccfcd8a3e683c",
+            "placement_id": "41e50c828f714d82b09ccfcd8a3e683c",
+            "platform_id": 50003
+          }
+        ],
+        "timeout": "5000",
+        "concurrent": "1",
+        "app_placement_id": "20048"
+      },
+      {
+        "ad": [
+          {
+            "placement_app_id": "ca-app-pub-3935620297880745",
+            "placement_id": "ca-app-pub-3935620297880745/6617996354",
+            "platform_id": 50002
+          },
+          {
+            "placement_app_id": "7c3940ae9b3a4bf598df50ae7f626c08",
+            "placement_id": "7c3940ae9b3a4bf598df50ae7f626c08",
+            "platform_id": 50003
+          },
+          {
+            "placement_app_id": "ca-app-pub-3935620297880745/5521726479",
+            "placement_id": "ca-app-pub-3935620297880745/5521726479",
+            "platform_id": 50002
+          },
+          {
+            "placement_app_id": "7e943f824b88489dbb0a2bf927f3a004",
+            "placement_id": "7e943f824b88489dbb0a2bf927f3a004",
+            "platform_id": 50003
+          },
+          {
+            "placement_app_id": "3051",
+            "data": {
+              "background_img": "http://amber-files.s3.amazonaws.com/upload/files/20190219020345126_1.jpg",
+              "copywriting": [
+                {
+                  "call_to_action": "立刻下载",
+                  "desc": "号称东半球最准天气预测应用，准到想哭啊大兄弟！",
+                  "lan": "zh",
+                  "title": "实时天气预报小工具"
+                },
+                {
+                  "call_to_action": "立刻下載",
+                  "desc": "最可靠的實時天氣小部件就在這裡！马上下载吧！",
+                  "lan": "zh",
+                  "title": "實時天氣预报小工具"
+                },
+                {
+                  "call_to_action": "Télécharger maintenant",
+                  "desc": "Le widget météo en temps réel le plus fiable est ici! Téléchargez-le maintenant!",
+                  "lan": "fr",
+                  "title": "☔️Gadget météo en temps réel"
+                },
+                {
+                  "call_to_action": "Jetzt downloaden",
+                  "desc": "Das zuverlässigste Echtzeit-Wetter-Widget ist da! Jetzt herunterladen!",
+                  "lan": "de",
+                  "title": "☔️Echtzeit-Wettervorhersage-Gadget"
+                },
+                {
+                  "call_to_action": "Scarica ora",
+                  "desc": "Il widget meteo in tempo reale più affidabile è qui! Scaricalo ORA!",
+                  "lan": "it",
+                  "title": "☔️Applet previsioni meteo in tempo reale"
+                },
+                {
+                  "call_to_action": "ダウンロード中",
+                  "desc": "最も信頼性の高いリアルタイム天気ウィジェットがここにあります！",
+                  "lan": "ja",
+                  "title": "☔️リアルタイム天気予報アプレット"
+                },
+                {
+                  "call_to_action": "지금 다운로드하십시오",
+                  "desc": "가장 신뢰할 수있는 실시간 날씨 위젯이 여기에 있습니다! 지금 다운로드하십시오!",
+                  "lan": "ko",
+                  "title": "☔️실시간 일기 예보 애플릿"
+                },
+                {
+                  "call_to_action": "Baixe Agora",
+                  "desc": "O widget meteorológico em tempo real mais confiável está aqui! ",
+                  "lan": "pt",
+                  "title": "☔️Applet de previsão do tempo em tempo real"
+                },
+                {
+                  "call_to_action": "Baixe Agora",
+                  "desc": "O widget meteorológico em tempo real mais confiável está aqui! Baixe agora!",
+                  "lan": "pt",
+                  "title": "☔️Applet de previsão do tempo em tempo real"
+                },
+                {
+                  "call_to_action": "Скачать сейчас",
+                  "desc": "Самый надежный онлайн-Виджет погоды здесь! Скачайте сейчас!",
+                  "lan": "ru",
+                  "title": "☔️Гаджет прогноза погоды в режиме реального времени"
+                },
+                {
+                  "call_to_action": "Descargar ahora",
+                  "desc": "¡El widget meteorológico en tiempo real más confiable está aquí! ¡Descárgalo ahora!",
+                  "lan": "es",
+                  "title": "☔️Gadget de pronóstico del tiempo en tiempo real"
+                },
+                {
+                  "call_to_action": "Download NOW",
+                  "desc": "😊The most reliable real-time weather widget is here! Download it NOW!",
+                  "lan": "en",
+                  "title": "☔️Real-time weather widget"
+                }
+              ],
+              "icon_img": "http://d1f4dp0syfp2oq.cloudfront.net/upload/files/20190325104430663_icon_72.png",
+              "jump_link": "market://details?id=mobi.infolife.ezweather.livewallpaper.wealwp.radar.barometer.storm",
+              "main_img": "http://d1f4dp0syfp2oq.cloudfront.net/upload/files/20190325104443854_dasdasdas.jpg",
+              "referrer_campaign": "ad_backup_flow",
+              "step": 0
+            },
+            "placement_id": "2819",
+            "platform_id": 50010
+          }
+        ],
+        "timeout": "5000",
+        "concurrent": "2",
+        "app_placement_id": "20049"
+      },
+      {
+        "ad": [
+          {
+            "placement_app_id": "ca-app-pub-3935620297880745",
+            "placement_id": "ca-app-pub-3935620297880745/3145655208",
+            "platform_id": 50002
+          },
+          {
+            "placement_app_id": "7c3940ae9b3a4bf598df50ae7f626c08",
+            "placement_id": "7c3940ae9b3a4bf598df50ae7f626c08",
+            "platform_id": 50003
+          },
+          {
+            "placement_app_id": "ca-app-pub-3935620297880745",
+            "placement_id": "ca-app-pub-3935620297880745/7736826273",
+            "platform_id": 50002
+          },
+          {
+            "placement_app_id": "7e943f824b88489dbb0a2bf927f3a004",
+            "placement_id": "7e943f824b88489dbb0a2bf927f3a004",
+            "platform_id": 50003
+          },
+          {
+            "placement_app_id": "3051",
+            "data": {
+              "background_img": "http://amber-files.s3.amazonaws.com/upload/files/20190219020345126_1.jpg",
+              "copywriting": [
+                {
+                  "call_to_action": "立刻下载",
+                  "desc": "号称东半球最准天气预测应用，准到想哭啊大兄弟！",
+                  "lan": "zh",
+                  "title": "实时天气预报小工具"
+                },
+                {
+                  "call_to_action": "立刻下載",
+                  "desc": "最可靠的實時天氣小部件就在這裡！马上下载吧！",
+                  "lan": "zh",
+                  "title": "實時天氣预报小工具"
+                },
+                {
+                  "call_to_action": "Télécharger maintenant",
+                  "desc": "Le widget météo en temps réel le plus fiable est ici! Téléchargez-le maintenant!",
+                  "lan": "fr",
+                  "title": "☔️Gadget météo en temps réel"
+                },
+                {
+                  "call_to_action": "Jetzt downloaden",
+                  "desc": "Das zuverlässigste Echtzeit-Wetter-Widget ist da! Jetzt herunterladen!",
+                  "lan": "de",
+                  "title": "☔️Echtzeit-Wettervorhersage-Gadget"
+                },
+                {
+                  "call_to_action": "Scarica ora",
+                  "desc": "Il widget meteo in tempo reale più affidabile è qui! Scaricalo ORA!",
+                  "lan": "it",
+                  "title": "☔️Applet previsioni meteo in tempo reale"
+                },
+                {
+                  "call_to_action": "ダウンロード中",
+                  "desc": "最も信頼性の高いリアルタイム天気ウィジェットがここにあります！",
+                  "lan": "ja",
+                  "title": "☔️リアルタイム天気予報アプレット"
+                },
+                {
+                  "call_to_action": "지금 다운로드하십시오",
+                  "desc": "가장 신뢰할 수있는 실시간 날씨 위젯이 여기에 있습니다! 지금 다운로드하십시오!",
+                  "lan": "ko",
+                  "title": "☔️실시간 일기 예보 애플릿"
+                },
+                {
+                  "call_to_action": "Baixe Agora",
+                  "desc": "O widget meteorológico em tempo real mais confiável está aqui! ",
+                  "lan": "pt",
+                  "title": "☔️Applet de previsão do tempo em tempo real"
+                },
+                {
+                  "call_to_action": "Baixe Agora",
+                  "desc": "O widget meteorológico em tempo real mais confiável está aqui! Baixe agora!",
+                  "lan": "pt",
+                  "title": "☔️Applet de previsão do tempo em tempo real"
+                },
+                {
+                  "call_to_action": "Скачать сейчас",
+                  "desc": "Самый надежный онлайн-Виджет погоды здесь! Скачайте сейчас!",
+                  "lan": "ru",
+                  "title": "☔️Гаджет прогноза погоды в режиме реального времени"
+                },
+                {
+                  "call_to_action": "Descargar ahora",
+                  "desc": "¡El widget meteorológico en tiempo real más confiable está aquí! ¡Descárgalo ahora!",
+                  "lan": "es",
+                  "title": "☔️Gadget de pronóstico del tiempo en tiempo real"
+                },
+                {
+                  "call_to_action": "Download NOW",
+                  "desc": "😊The most reliable real-time weather widget is here! Download it NOW!",
+                  "lan": "en",
+                  "title": "☔️Real-time weather widget"
+                }
+              ],
+              "icon_img": "http://d1f4dp0syfp2oq.cloudfront.net/upload/files/20190325104430663_icon_72.png",
+              "jump_link": "market://details?id=mobi.infolife.ezweather.livewallpaper.wealwp.radar.barometer.storm",
+              "main_img": "http://d1f4dp0syfp2oq.cloudfront.net/upload/files/20190325104443854_dasdasdas.jpg",
+              "referrer_campaign": "ad_backup_flow",
+              "step": 0
+            },
+            "placement_id": "2819",
+            "platform_id": 50010
+          }
+        ],
+        "timeout": "5000",
+        "concurrent": "2",
+        "app_placement_id": "20050"
+      },
+      {
+        "ad": [
+          {
+            "placement_app_id": "ca-app-pub-3935620297880745",
+            "placement_id": "ca-app-pub-3935620297880745/3145655208",
+            "platform_id": 50002
+          },
+          {
+            "placement_app_id": "7c3940ae9b3a4bf598df50ae7f626c08",
+            "placement_id": "7c3940ae9b3a4bf598df50ae7f626c08",
+            "platform_id": 50003
+          },
+          {
+            "placement_app_id": "ca-app-pub-3935620297880745",
+            "placement_id": "ca-app-pub-3935620297880745/7736826273",
+            "platform_id": 50002
+          },
+          {
+            "placement_app_id": "7e943f824b88489dbb0a2bf927f3a004",
+            "placement_id": "7e943f824b88489dbb0a2bf927f3a004",
+            "platform_id": 50003
+          },
+          {
+            "placement_app_id": "3051",
+            "data": {
+              "background_img": "http://amber-files.s3.amazonaws.com/upload/files/20190219020345126_1.jpg",
+              "copywriting": [
+                {
+                  "call_to_action": "立刻下载",
+                  "desc": "号称东半球最准天气预测应用，准到想哭啊大兄弟！",
+                  "lan": "zh",
+                  "title": "实时天气预报小工具"
+                },
+                {
+                  "call_to_action": "立刻下載",
+                  "desc": "最可靠的實時天氣小部件就在這裡！马上下载吧！",
+                  "lan": "zh",
+                  "title": "實時天氣预报小工具"
+                },
+                {
+                  "call_to_action": "Télécharger maintenant",
+                  "desc": "Le widget météo en temps réel le plus fiable est ici! Téléchargez-le maintenant!",
+                  "lan": "fr",
+                  "title": "☔️Gadget météo en temps réel"
+                },
+                {
+                  "call_to_action": "Jetzt downloaden",
+                  "desc": "Das zuverlässigste Echtzeit-Wetter-Widget ist da! Jetzt herunterladen!",
+                  "lan": "de",
+                  "title": "☔️Echtzeit-Wettervorhersage-Gadget"
+                },
+                {
+                  "call_to_action": "Scarica ora",
+                  "desc": "Il widget meteo in tempo reale più affidabile è qui! Scaricalo ORA!",
+                  "lan": "it",
+                  "title": "☔️Applet previsioni meteo in tempo reale"
+                },
+                {
+                  "call_to_action": "ダウンロード中",
+                  "desc": "最も信頼性の高いリアルタイム天気ウィジェットがここにあります！",
+                  "lan": "ja",
+                  "title": "☔️リアルタイム天気予報アプレット"
+                },
+                {
+                  "call_to_action": "지금 다운로드하십시오",
+                  "desc": "가장 신뢰할 수있는 실시간 날씨 위젯이 여기에 있습니다! 지금 다운로드하십시오!",
+                  "lan": "ko",
+                  "title": "☔️실시간 일기 예보 애플릿"
+                },
+                {
+                  "call_to_action": "Baixe Agora",
+                  "desc": "O widget meteorológico em tempo real mais confiável está aqui! ",
+                  "lan": "pt",
+                  "title": "☔️Applet de previsão do tempo em tempo real"
+                },
+                {
+                  "call_to_action": "Baixe Agora",
+                  "desc": "O widget meteorológico em tempo real mais confiável está aqui! Baixe agora!",
+                  "lan": "pt",
+                  "title": "☔️Applet de previsão do tempo em tempo real"
+                },
+                {
+                  "call_to_action": "Скачать сейчас",
+                  "desc": "Самый надежный онлайн-Виджет погоды здесь! Скачайте сейчас!",
+                  "lan": "ru",
+                  "title": "☔️Гаджет прогноза погоды в режиме реального времени"
+                },
+                {
+                  "call_to_action": "Descargar ahora",
+                  "desc": "¡El widget meteorológico en tiempo real más confiable está aquí! ¡Descárgalo ahora!",
+                  "lan": "es",
+                  "title": "☔️Gadget de pronóstico del tiempo en tiempo real"
+                },
+                {
+                  "call_to_action": "Download NOW",
+                  "desc": "😊The most reliable real-time weather widget is here! Download it NOW!",
+                  "lan": "en",
+                  "title": "☔️Real-time weather widget"
+                }
+              ],
+              "icon_img": "http://d1f4dp0syfp2oq.cloudfront.net/upload/files/20190325104430663_icon_72.png",
+              "jump_link": "market://details?id=mobi.infolife.ezweather.livewallpaper.wealwp.radar.barometer.storm",
+              "main_img": "http://d1f4dp0syfp2oq.cloudfront.net/upload/files/20190325104443854_dasdasdas.jpg",
+              "referrer_campaign": "ad_backup_flow",
+              "step": 0
+            },
+            "placement_id": "2819",
+            "platform_id": 50010
+          }
+        ],
+        "timeout": "5000",
+        "concurrent": "2",
+        "app_placement_id": "20051"
+      },
+      {
+        "ad": [
+          {
+            "placement_app_id": "ca-app-pub-3935620297880745",
+            "placement_id": "ca-app-pub-3935620297880745/5678488716",
+            "platform_id": 50002
+          },
+          {
+            "placement_app_id": "3051",
+            "data": {
+              "background_img": "http://amber-files.s3.amazonaws.com/upload/files/20190219020345126_1.jpg",
+              "copywriting": [
+                {
+                  "call_to_action": "立刻下载",
+                  "desc": "号称东半球最准天气预测应用，准到想哭啊大兄弟！",
+                  "lan": "zh",
+                  "title": "实时天气预报小工具"
+                },
+                {
+                  "call_to_action": "立刻下載",
+                  "desc": "最可靠的實時天氣小部件就在這裡！马上下载吧！",
+                  "lan": "zh",
+                  "title": "實時天氣预报小工具"
+                },
+                {
+                  "call_to_action": "Télécharger maintenant",
+                  "desc": "Le widget météo en temps réel le plus fiable est ici! Téléchargez-le maintenant!",
+                  "lan": "fr",
+                  "title": "☔️Gadget météo en temps réel"
+                },
+                {
+                  "call_to_action": "Jetzt downloaden",
+                  "desc": "Das zuverlässigste Echtzeit-Wetter-Widget ist da! Jetzt herunterladen!",
+                  "lan": "de",
+                  "title": "☔️Echtzeit-Wettervorhersage-Gadget"
+                },
+                {
+                  "call_to_action": "Scarica ora",
+                  "desc": "Il widget meteo in tempo reale più affidabile è qui! Scaricalo ORA!",
+                  "lan": "it",
+                  "title": "☔️Applet previsioni meteo in tempo reale"
+                },
+                {
+                  "call_to_action": "ダウンロード中",
+                  "desc": "最も信頼性の高いリアルタイム天気ウィジェットがここにあります！",
+                  "lan": "ja",
+                  "title": "☔️リアルタイム天気予報アプレット"
+                },
+                {
+                  "call_to_action": "지금 다운로드하십시오",
+                  "desc": "가장 신뢰할 수있는 실시간 날씨 위젯이 여기에 있습니다! 지금 다운로드하십시오!",
+                  "lan": "ko",
+                  "title": "☔️실시간 일기 예보 애플릿"
+                },
+                {
+                  "call_to_action": "Baixe Agora",
+                  "desc": "O widget meteorológico em tempo real mais confiável está aqui! ",
+                  "lan": "pt",
+                  "title": "☔️Applet de previsão do tempo em tempo real"
+                },
+                {
+                  "call_to_action": "Baixe Agora",
+                  "desc": "O widget meteorológico em tempo real mais confiável está aqui! Baixe agora!",
+                  "lan": "pt",
+                  "title": "☔️Applet de previsão do tempo em tempo real"
+                },
+                {
+                  "call_to_action": "Скачать сейчас",
+                  "desc": "Самый надежный онлайн-Виджет погоды здесь! Скачайте сейчас!",
+                  "lan": "ru",
+                  "title": "☔️Гаджет прогноза погоды в режиме реального времени"
+                },
+                {
+                  "call_to_action": "Descargar ahora",
+                  "desc": "¡El widget meteorológico en tiempo real más confiable está aquí! ¡Descárgalo ahora!",
+                  "lan": "es",
+                  "title": "☔️Gadget de pronóstico del tiempo en tiempo real"
+                },
+                {
+                  "call_to_action": "Download NOW",
+                  "desc": "😊The most reliable real-time weather widget is here! Download it NOW!",
+                  "lan": "en",
+                  "title": "☔️Real-time weather widget"
+                }
+              ],
+              "icon_img": "http://d1f4dp0syfp2oq.cloudfront.net/upload/files/20190325104430663_icon_72.png",
+              "jump_link": "market://details?id=mobi.infolife.ezweather.livewallpaper.wealwp.radar.barometer.storm",
+              "main_img": "http://d1f4dp0syfp2oq.cloudfront.net/upload/files/20190325104443854_dasdasdas.jpg",
+              "referrer_campaign": "ad_backup_flow",
+              "step": 0
+            },
+            "placement_id": "2819",
+            "platform_id": 50010
+          }
+        ],
+        "timeout": "5000",
+        "concurrent": "1",
+        "app_placement_id": "20052"
+      },
+      {
+        "ad": [
+          {
+            "placement_app_id": "ca-app-pub-3935620297880745",
+            "placement_id": "ca-app-pub-3935620297880745/5669638710",
+            "platform_id": 50002
+          },
+          {
+            "placement_app_id": "3051",
+            "data": {
+              "background_img": "http://amber-files.s3.amazonaws.com/upload/files/20190219020345126_1.jpg",
+              "copywriting": [
+                {
+                  "call_to_action": "立刻下载",
+                  "desc": "号称东半球最准天气预测应用，准到想哭啊大兄弟！",
+                  "lan": "zh",
+                  "title": "实时天气预报小工具"
+                },
+                {
+                  "call_to_action": "立刻下載",
+                  "desc": "最可靠的實時天氣小部件就在這裡！马上下载吧！",
+                  "lan": "zh",
+                  "title": "實時天氣预报小工具"
+                },
+                {
+                  "call_to_action": "Télécharger maintenant",
+                  "desc": "Le widget météo en temps réel le plus fiable est ici! Téléchargez-le maintenant!",
+                  "lan": "fr",
+                  "title": "☔️Gadget météo en temps réel"
+                },
+                {
+                  "call_to_action": "Jetzt downloaden",
+                  "desc": "Das zuverlässigste Echtzeit-Wetter-Widget ist da! Jetzt herunterladen!",
+                  "lan": "de",
+                  "title": "☔️Echtzeit-Wettervorhersage-Gadget"
+                },
+                {
+                  "call_to_action": "Scarica ora",
+                  "desc": "Il widget meteo in tempo reale più affidabile è qui! Scaricalo ORA!",
+                  "lan": "it",
+                  "title": "☔️Applet previsioni meteo in tempo reale"
+                },
+                {
+                  "call_to_action": "ダウンロード中",
+                  "desc": "最も信頼性の高いリアルタイム天気ウィジェットがここにあります！",
+                  "lan": "ja",
+                  "title": "☔️リアルタイム天気予報アプレット"
+                },
+                {
+                  "call_to_action": "지금 다운로드하십시오",
+                  "desc": "가장 신뢰할 수있는 실시간 날씨 위젯이 여기에 있습니다! 지금 다운로드하십시오!",
+                  "lan": "ko",
+                  "title": "☔️실시간 일기 예보 애플릿"
+                },
+                {
+                  "call_to_action": "Baixe Agora",
+                  "desc": "O widget meteorológico em tempo real mais confiável está aqui! ",
+                  "lan": "pt",
+                  "title": "☔️Applet de previsão do tempo em tempo real"
+                },
+                {
+                  "call_to_action": "Baixe Agora",
+                  "desc": "O widget meteorológico em tempo real mais confiável está aqui! Baixe agora!",
+                  "lan": "pt",
+                  "title": "☔️Applet de previsão do tempo em tempo real"
+                },
+                {
+                  "call_to_action": "Скачать сейчас",
+                  "desc": "Самый надежный онлайн-Виджет погоды здесь! Скачайте сейчас!",
+                  "lan": "ru",
+                  "title": "☔️Гаджет прогноза погоды в режиме реального времени"
+                },
+                {
+                  "call_to_action": "Descargar ahora",
+                  "desc": "¡El widget meteorológico en tiempo real más confiable está aquí! ¡Descárgalo ahora!",
+                  "lan": "es",
+                  "title": "☔️Gadget de pronóstico del tiempo en tiempo real"
+                },
+                {
+                  "call_to_action": "Download NOW",
+                  "desc": "😊The most reliable real-time weather widget is here! Download it NOW!",
+                  "lan": "en",
+                  "title": "☔️Real-time weather widget"
+                }
+              ],
+              "icon_img": "http://d1f4dp0syfp2oq.cloudfront.net/upload/files/20190325104430663_icon_72.png",
+              "jump_link": "market://details?id=mobi.infolife.ezweather.livewallpaper.wealwp.radar.barometer.storm",
+              "main_img": "http://d1f4dp0syfp2oq.cloudfront.net/upload/files/20190325104443854_dasdasdas.jpg",
+              "referrer_campaign": "ad_backup_flow",
+              "step": 0
+            },
+            "placement_id": "2819",
+            "platform_id": 50010
+          }
+        ],
+        "timeout": "5000",
+        "concurrent": "1",
+        "app_placement_id": "20053"
+      },
+      {
+        "ad": [
+          {
+            "placement_app_id": "ca-app-pub-3935620297880745",
+            "placement_id": "ca-app-pub-3935620297880745/6614085751",
+            "platform_id": 50002
+          },
+          {
+            "placement_app_id": "3051",
+            "data": {
+              "background_img": "http://amber-files.s3.amazonaws.com/upload/files/20190219020345126_1.jpg",
+              "copywriting": [
+                {
+                  "call_to_action": "立刻下载",
+                  "desc": "号称东半球最准天气预测应用，准到想哭啊大兄弟！",
+                  "lan": "zh",
+                  "title": "实时天气预报小工具"
+                },
+                {
+                  "call_to_action": "立刻下載",
+                  "desc": "最可靠的實時天氣小部件就在這裡！马上下载吧！",
+                  "lan": "zh",
+                  "title": "實時天氣预报小工具"
+                },
+                {
+                  "call_to_action": "Télécharger maintenant",
+                  "desc": "Le widget météo en temps réel le plus fiable est ici! Téléchargez-le maintenant!",
+                  "lan": "fr",
+                  "title": "☔️Gadget météo en temps réel"
+                },
+                {
+                  "call_to_action": "Jetzt downloaden",
+                  "desc": "Das zuverlässigste Echtzeit-Wetter-Widget ist da! Jetzt herunterladen!",
+                  "lan": "de",
+                  "title": "☔️Echtzeit-Wettervorhersage-Gadget"
+                },
+                {
+                  "call_to_action": "Scarica ora",
+                  "desc": "Il widget meteo in tempo reale più affidabile è qui! Scaricalo ORA!",
+                  "lan": "it",
+                  "title": "☔️Applet previsioni meteo in tempo reale"
+                },
+                {
+                  "call_to_action": "ダウンロード中",
+                  "desc": "最も信頼性の高いリアルタイム天気ウィジェットがここにあります！",
+                  "lan": "ja",
+                  "title": "☔️リアルタイム天気予報アプレット"
+                },
+                {
+                  "call_to_action": "지금 다운로드하십시오",
+                  "desc": "가장 신뢰할 수있는 실시간 날씨 위젯이 여기에 있습니다! 지금 다운로드하십시오!",
+                  "lan": "ko",
+                  "title": "☔️실시간 일기 예보 애플릿"
+                },
+                {
+                  "call_to_action": "Baixe Agora",
+                  "desc": "O widget meteorológico em tempo real mais confiável está aqui! ",
+                  "lan": "pt",
+                  "title": "☔️Applet de previsão do tempo em tempo real"
+                },
+                {
+                  "call_to_action": "Baixe Agora",
+                  "desc": "O widget meteorológico em tempo real mais confiável está aqui! Baixe agora!",
+                  "lan": "pt",
+                  "title": "☔️Applet de previsão do tempo em tempo real"
+                },
+                {
+                  "call_to_action": "Скачать сейчас",
+                  "desc": "Самый надежный онлайн-Виджет погоды здесь! Скачайте сейчас!",
+                  "lan": "ru",
+                  "title": "☔️Гаджет прогноза погоды в режиме реального времени"
+                },
+                {
+                  "call_to_action": "Descargar ahora",
+                  "desc": "¡El widget meteorológico en tiempo real más confiable está aquí! ¡Descárgalo ahora!",
+                  "lan": "es",
+                  "title": "☔️Gadget de pronóstico del tiempo en tiempo real"
+                },
+                {
+                  "call_to_action": "Download NOW",
+                  "desc": "😊The most reliable real-time weather widget is here! Download it NOW!",
+                  "lan": "en",
+                  "title": "☔️Real-time weather widget"
+                }
+              ],
+              "icon_img": "http://d1f4dp0syfp2oq.cloudfront.net/upload/files/20190325104430663_icon_72.png",
+              "jump_link": "market://details?id=mobi.infolife.ezweather.livewallpaper.wealwp.radar.barometer.storm",
+              "main_img": "http://d1f4dp0syfp2oq.cloudfront.net/upload/files/20190325104443854_dasdasdas.jpg",
+              "referrer_campaign": "ad_backup_flow",
+              "step": 0
+            },
+            "placement_id": "2819",
+            "platform_id": 50010
+          }
+        ],
+        "timeout": "5000",
+        "concurrent": "1",
+        "app_placement_id": "20054"
+      },
+      {
+        "ad": [
+          {
+            "placement_app_id": "ca-app-pub-3935620297880745",
+            "placement_id": "ca-app-pub-3935620297880745/8028620373",
+            "platform_id": 50002
+          },
+          {
+            "placement_app_id": "ca-app-pub-3935620297880745",
+            "placement_id": "ca-app-pub-3935620297880745/8958241431",
+            "platform_id": 50002
+          },
+          {
+            "placement_app_id": "ca-app-pub-3935620297880745",
+            "placement_id": "ca-app-pub-3935620297880745/3572717655",
+            "platform_id": 50002
+          },
+          {
+            "placement_app_id": "3051",
+            "data": {
+              "background_img": "http://amber-files.s3.amazonaws.com/upload/files/20190219020345126_1.jpg",
+              "copywriting": [
+                {
+                  "call_to_action": "立刻下载",
+                  "desc": "号称东半球最准天气预测应用，准到想哭啊大兄弟！",
+                  "lan": "zh",
+                  "title": "实时天气预报小工具"
+                },
+                {
+                  "call_to_action": "立刻下載",
+                  "desc": "最可靠的實時天氣小部件就在這裡！马上下载吧！",
+                  "lan": "zh",
+                  "title": "實時天氣预报小工具"
+                },
+                {
+                  "call_to_action": "Télécharger maintenant",
+                  "desc": "Le widget météo en temps réel le plus fiable est ici! Téléchargez-le maintenant!",
+                  "lan": "fr",
+                  "title": "☔️Gadget météo en temps réel"
+                },
+                {
+                  "call_to_action": "Jetzt downloaden",
+                  "desc": "Das zuverlässigste Echtzeit-Wetter-Widget ist da! Jetzt herunterladen!",
+                  "lan": "de",
+                  "title": "☔️Echtzeit-Wettervorhersage-Gadget"
+                },
+                {
+                  "call_to_action": "Scarica ora",
+                  "desc": "Il widget meteo in tempo reale più affidabile è qui! Scaricalo ORA!",
+                  "lan": "it",
+                  "title": "☔️Applet previsioni meteo in tempo reale"
+                },
+                {
+                  "call_to_action": "ダウンロード中",
+                  "desc": "最も信頼性の高いリアルタイム天気ウィジェットがここにあります！",
+                  "lan": "ja",
+                  "title": "☔️リアルタイム天気予報アプレット"
+                },
+                {
+                  "call_to_action": "지금 다운로드하십시오",
+                  "desc": "가장 신뢰할 수있는 실시간 날씨 위젯이 여기에 있습니다! 지금 다운로드하십시오!",
+                  "lan": "ko",
+                  "title": "☔️실시간 일기 예보 애플릿"
+                },
+                {
+                  "call_to_action": "Baixe Agora",
+                  "desc": "O widget meteorológico em tempo real mais confiável está aqui! ",
+                  "lan": "pt",
+                  "title": "☔️Applet de previsão do tempo em tempo real"
+                },
+                {
+                  "call_to_action": "Baixe Agora",
+                  "desc": "O widget meteorológico em tempo real mais confiável está aqui! Baixe agora!",
+                  "lan": "pt",
+                  "title": "☔️Applet de previsão do tempo em tempo real"
+                },
+                {
+                  "call_to_action": "Скачать сейчас",
+                  "desc": "Самый надежный онлайн-Виджет погоды здесь! Скачайте сейчас!",
+                  "lan": "ru",
+                  "title": "☔️Гаджет прогноза погоды в режиме реального времени"
+                },
+                {
+                  "call_to_action": "Descargar ahora",
+                  "desc": "¡El widget meteorológico en tiempo real más confiable está aquí! ¡Descárgalo ahora!",
+                  "lan": "es",
+                  "title": "☔️Gadget de pronóstico del tiempo en tiempo real"
+                },
+                {
+                  "call_to_action": "Download NOW",
+                  "desc": "😊The most reliable real-time weather widget is here! Download it NOW!",
+                  "lan": "en",
+                  "title": "☔️Real-time weather widget"
+                }
+              ],
+              "icon_img": "http://d1f4dp0syfp2oq.cloudfront.net/upload/files/20190325104430663_icon_72.png",
+              "jump_link": "market://details?id=mobi.infolife.ezweather.livewallpaper.wealwp.radar.barometer.storm",
+              "main_img": "http://d1f4dp0syfp2oq.cloudfront.net/upload/files/20190325104443854_dasdasdas.jpg",
+              "referrer_campaign": "ad_backup_flow",
+              "step": 0
+            },
+            "placement_id": "2819",
+            "platform_id": 50010
+          }
+        ],
+        "timeout": "5000",
+        "concurrent": "1",
+        "app_placement_id": "20055"
+      },
+      {
+        "ad": [
+          {
+            "placement_app_id": "ca-app-pub-3935620297880745~1180751919",
+            "placement_id": "ca-app-pub-3935620297880745/4627215511",
+            "platform_id": 50002
+          },
+          {
+            "placement_app_id": "ca-app-pub-3935620297880745",
+            "placement_id": "ca-app-pub-3935620297880745/8158729887",
+            "platform_id": 50002
+          },
+          {
+            "placement_app_id": "ca-app-pub-3935620297880745",
+            "placement_id": "ca-app-pub-3935620297880745/3585060054",
+            "platform_id": 50002
+          },
+          {
+            "placement_app_id": "3051",
+            "data": {
+              "background_img": "http://amber-files.s3.amazonaws.com/upload/files/20190219020345126_1.jpg",
+              "copywriting": [
+                {
+                  "call_to_action": "立刻下载",
+                  "desc": "号称东半球最准天气预测应用，准到想哭啊大兄弟！",
+                  "lan": "zh",
+                  "title": "实时天气预报小工具"
+                },
+                {
+                  "call_to_action": "立刻下載",
+                  "desc": "最可靠的實時天氣小部件就在這裡！马上下载吧！",
+                  "lan": "zh",
+                  "title": "實時天氣预报小工具"
+                },
+                {
+                  "call_to_action": "Télécharger maintenant",
+                  "desc": "Le widget météo en temps réel le plus fiable est ici! Téléchargez-le maintenant!",
+                  "lan": "fr",
+                  "title": "☔️Gadget météo en temps réel"
+                },
+                {
+                  "call_to_action": "Jetzt downloaden",
+                  "desc": "Das zuverlässigste Echtzeit-Wetter-Widget ist da! Jetzt herunterladen!",
+                  "lan": "de",
+                  "title": "☔️Echtzeit-Wettervorhersage-Gadget"
+                },
+                {
+                  "call_to_action": "Scarica ora",
+                  "desc": "Il widget meteo in tempo reale più affidabile è qui! Scaricalo ORA!",
+                  "lan": "it",
+                  "title": "☔️Applet previsioni meteo in tempo reale"
+                },
+                {
+                  "call_to_action": "ダウンロード中",
+                  "desc": "最も信頼性の高いリアルタイム天気ウィジェットがここにあります！",
+                  "lan": "ja",
+                  "title": "☔️リアルタイム天気予報アプレット"
+                },
+                {
+                  "call_to_action": "지금 다운로드하십시오",
+                  "desc": "가장 신뢰할 수있는 실시간 날씨 위젯이 여기에 있습니다! 지금 다운로드하십시오!",
+                  "lan": "ko",
+                  "title": "☔️실시간 일기 예보 애플릿"
+                },
+                {
+                  "call_to_action": "Baixe Agora",
+                  "desc": "O widget meteorológico em tempo real mais confiável está aqui! ",
+                  "lan": "pt",
+                  "title": "☔️Applet de previsão do tempo em tempo real"
+                },
+                {
+                  "call_to_action": "Baixe Agora",
+                  "desc": "O widget meteorológico em tempo real mais confiável está aqui! Baixe agora!",
+                  "lan": "pt",
+                  "title": "☔️Applet de previsão do tempo em tempo real"
+                },
+                {
+                  "call_to_action": "Скачать сейчас",
+                  "desc": "Самый надежный онлайн-Виджет погоды здесь! Скачайте сейчас!",
+                  "lan": "ru",
+                  "title": "☔️Гаджет прогноза погоды в режиме реального времени"
+                },
+                {
+                  "call_to_action": "Descargar ahora",
+                  "desc": "¡El widget meteorológico en tiempo real más confiable está aquí! ¡Descárgalo ahora!",
+                  "lan": "es",
+                  "title": "☔️Gadget de pronóstico del tiempo en tiempo real"
+                },
+                {
+                  "call_to_action": "Download NOW",
+                  "desc": "😊The most reliable real-time weather widget is here! Download it NOW!",
+                  "lan": "en",
+                  "title": "☔️Real-time weather widget"
+                }
+              ],
+              "icon_img": "http://d1f4dp0syfp2oq.cloudfront.net/upload/files/20190325104430663_icon_72.png",
+              "jump_link": "market://details?id=mobi.infolife.ezweather.livewallpaper.wealwp.radar.barometer.storm",
+              "main_img": "http://d1f4dp0syfp2oq.cloudfront.net/upload/files/20190325104443854_dasdasdas.jpg",
+              "referrer_campaign": "ad_backup_flow",
+              "step": 0
+            },
+            "placement_id": "2819",
+            "platform_id": 50010
+          }
+        ],
+        "timeout": "5000",
+        "concurrent": "2",
+        "app_placement_id": "20056"
+      },
+      {
+        "ad": [
+          {
+            "placement_app_id": "ca-app-pub-3935620297880745~1180751919",
+            "placement_id": "ca-app-pub-3935620297880745/7511141911",
+            "platform_id": 50002
+          },
+          {
+            "placement_app_id": "3051",
+            "data": {
+              "background_img": "http://amber-files.s3.amazonaws.com/upload/files/20190219020345126_1.jpg",
+              "copywriting": [
+                {
+                  "call_to_action": "立刻下载",
+                  "desc": "号称东半球最准天气预测应用，准到想哭啊大兄弟！",
+                  "lan": "zh",
+                  "title": "实时天气预报小工具"
+                },
+                {
+                  "call_to_action": "立刻下載",
+                  "desc": "最可靠的實時天氣小部件就在這裡！马上下载吧！",
+                  "lan": "zh",
+                  "title": "實時天氣预报小工具"
+                },
+                {
+                  "call_to_action": "Télécharger maintenant",
+                  "desc": "Le widget météo en temps réel le plus fiable est ici! Téléchargez-le maintenant!",
+                  "lan": "fr",
+                  "title": "☔️Gadget météo en temps réel"
+                },
+                {
+                  "call_to_action": "Jetzt downloaden",
+                  "desc": "Das zuverlässigste Echtzeit-Wetter-Widget ist da! Jetzt herunterladen!",
+                  "lan": "de",
+                  "title": "☔️Echtzeit-Wettervorhersage-Gadget"
+                },
+                {
+                  "call_to_action": "Scarica ora",
+                  "desc": "Il widget meteo in tempo reale più affidabile è qui! Scaricalo ORA!",
+                  "lan": "it",
+                  "title": "☔️Applet previsioni meteo in tempo reale"
+                },
+                {
+                  "call_to_action": "ダウンロード中",
+                  "desc": "最も信頼性の高いリアルタイム天気ウィジェットがここにあります！",
+                  "lan": "ja",
+                  "title": "☔️リアルタイム天気予報アプレット"
+                },
+                {
+                  "call_to_action": "지금 다운로드하십시오",
+                  "desc": "가장 신뢰할 수있는 실시간 날씨 위젯이 여기에 있습니다! 지금 다운로드하십시오!",
+                  "lan": "ko",
+                  "title": "☔️실시간 일기 예보 애플릿"
+                },
+                {
+                  "call_to_action": "Baixe Agora",
+                  "desc": "O widget meteorológico em tempo real mais confiável está aqui! ",
+                  "lan": "pt",
+                  "title": "☔️Applet de previsão do tempo em tempo real"
+                },
+                {
+                  "call_to_action": "Baixe Agora",
+                  "desc": "O widget meteorológico em tempo real mais confiável está aqui! Baixe agora!",
+                  "lan": "pt",
+                  "title": "☔️Applet de previsão do tempo em tempo real"
+                },
+                {
+                  "call_to_action": "Скачать сейчас",
+                  "desc": "Самый надежный онлайн-Виджет погоды здесь! Скачайте сейчас!",
+                  "lan": "ru",
+                  "title": "☔️Гаджет прогноза погоды в режиме реального времени"
+                },
+                {
+                  "call_to_action": "Descargar ahora",
+                  "desc": "¡El widget meteorológico en tiempo real más confiable está aquí! ¡Descárgalo ahora!",
+                  "lan": "es",
+                  "title": "☔️Gadget de pronóstico del tiempo en tiempo real"
+                },
+                {
+                  "call_to_action": "Download NOW",
+                  "desc": "😊The most reliable real-time weather widget is here! Download it NOW!",
+                  "lan": "en",
+                  "title": "☔️Real-time weather widget"
+                }
+              ],
+              "icon_img": "http://d1f4dp0syfp2oq.cloudfront.net/upload/files/20190325104430663_icon_72.png",
+              "jump_link": "market://details?id=mobi.infolife.ezweather.livewallpaper.wealwp.radar.barometer.storm",
+              "main_img": "http://d1f4dp0syfp2oq.cloudfront.net/upload/files/20190325104443854_dasdasdas.jpg",
+              "referrer_campaign": "ad_backup_flow",
+              "step": 0
+            },
+            "placement_id": "2819",
+            "platform_id": 50010
+          }
+        ],
+        "timeout": "5000",
+        "concurrent": "1",
+        "app_placement_id": "20057"
+      },
+      {
+        "ad": [
+          {
+            "placement_app_id": "ca-app-pub-3935620297880745",
+            "placement_id": "ca-app-pub-3935620297880745/4414497743",
+            "platform_id": 50002
+          },
+          {
+            "placement_app_id": "3051",
+            "data": {
+              "background_img": "http://amber-files.s3.amazonaws.com/upload/files/20190219020345126_1.jpg",
+              "copywriting": [
+                {
+                  "call_to_action": "立刻下载",
+                  "desc": "号称东半球最准天气预测应用，准到想哭啊大兄弟！",
+                  "lan": "zh",
+                  "title": "实时天气预报小工具"
+                },
+                {
+                  "call_to_action": "立刻下載",
+                  "desc": "最可靠的實時天氣小部件就在這裡！马上下载吧！",
+                  "lan": "zh",
+                  "title": "實時天氣预报小工具"
+                },
+                {
+                  "call_to_action": "Télécharger maintenant",
+                  "desc": "Le widget météo en temps réel le plus fiable est ici! Téléchargez-le maintenant!",
+                  "lan": "fr",
+                  "title": "☔️Gadget météo en temps réel"
+                },
+                {
+                  "call_to_action": "Jetzt downloaden",
+                  "desc": "Das zuverlässigste Echtzeit-Wetter-Widget ist da! Jetzt herunterladen!",
+                  "lan": "de",
+                  "title": "☔️Echtzeit-Wettervorhersage-Gadget"
+                },
+                {
+                  "call_to_action": "Scarica ora",
+                  "desc": "Il widget meteo in tempo reale più affidabile è qui! Scaricalo ORA!",
+                  "lan": "it",
+                  "title": "☔️Applet previsioni meteo in tempo reale"
+                },
+                {
+                  "call_to_action": "ダウンロード中",
+                  "desc": "最も信頼性の高いリアルタイム天気ウィジェットがここにあります！",
+                  "lan": "ja",
+                  "title": "☔️リアルタイム天気予報アプレット"
+                },
+                {
+                  "call_to_action": "지금 다운로드하십시오",
+                  "desc": "가장 신뢰할 수있는 실시간 날씨 위젯이 여기에 있습니다! 지금 다운로드하십시오!",
+                  "lan": "ko",
+                  "title": "☔️실시간 일기 예보 애플릿"
+                },
+                {
+                  "call_to_action": "Baixe Agora",
+                  "desc": "O widget meteorológico em tempo real mais confiável está aqui! ",
+                  "lan": "pt",
+                  "title": "☔️Applet de previsão do tempo em tempo real"
+                },
+                {
+                  "call_to_action": "Baixe Agora",
+                  "desc": "O widget meteorológico em tempo real mais confiável está aqui! Baixe agora!",
+                  "lan": "pt",
+                  "title": "☔️Applet de previsão do tempo em tempo real"
+                },
+                {
+                  "call_to_action": "Скачать сейчас",
+                  "desc": "Самый надежный онлайн-Виджет погоды здесь! Скачайте сейчас!",
+                  "lan": "ru",
+                  "title": "☔️Гаджет прогноза погоды в режиме реального времени"
+                },
+                {
+                  "call_to_action": "Descargar ahora",
+                  "desc": "¡El widget meteorológico en tiempo real más confiable está aquí! ¡Descárgalo ahora!",
+                  "lan": "es",
+                  "title": "☔️Gadget de pronóstico del tiempo en tiempo real"
+                },
+                {
+                  "call_to_action": "Download NOW",
+                  "desc": "😊The most reliable real-time weather widget is here! Download it NOW!",
+                  "lan": "en",
+                  "title": "☔️Real-time weather widget"
+                }
+              ],
+              "icon_img": "http://d1f4dp0syfp2oq.cloudfront.net/upload/files/20190325104430663_icon_72.png",
+              "jump_link": "market://details?id=mobi.infolife.ezweather.livewallpaper.wealwp.radar.barometer.storm",
+              "main_img": "http://d1f4dp0syfp2oq.cloudfront.net/upload/files/20190325104443854_dasdasdas.jpg",
+              "referrer_campaign": "ad_backup_flow",
+              "step": 0
+            },
+            "placement_id": "2819",
+            "platform_id": 50010
+          }
+        ],
+        "timeout": "5000",
+        "concurrent": "1",
+        "app_placement_id": "20058"
+      },
+      {
+        "ad": [
+          {
+            "placement_app_id": "ca-app-pub-3935620297880745",
+            "placement_id": "ca-app-pub-3935620297880745/5824978805",
+            "platform_id": 50002
+          },
+          {
+            "placement_app_id": "7c3940ae9b3a4bf598df50ae7f626c08",
+            "placement_id": "7c3940ae9b3a4bf598df50ae7f626c08",
+            "platform_id": 50003
+          },
+          {
+            "placement_app_id": "ca-app-pub-3935620297880745",
+            "placement_id": "ca-app-pub-3935620297880745/4159353973",
+            "platform_id": 50002
+          },
+          {
+            "placement_app_id": "7e943f824b88489dbb0a2bf927f3a004",
+            "placement_id": "7e943f824b88489dbb0a2bf927f3a004",
+            "platform_id": 50003
+          },
+          {
+            "placement_app_id": "3051",
+            "data": {
+              "background_img": "http://amber-files.s3.amazonaws.com/upload/files/20190219020345126_1.jpg",
+              "copywriting": [
+                {
+                  "call_to_action": "立刻下载",
+                  "desc": "号称东半球最准天气预测应用，准到想哭啊大兄弟！",
+                  "lan": "zh",
+                  "title": "实时天气预报小工具"
+                },
+                {
+                  "call_to_action": "立刻下載",
+                  "desc": "最可靠的實時天氣小部件就在這裡！马上下载吧！",
+                  "lan": "zh",
+                  "title": "實時天氣预报小工具"
+                },
+                {
+                  "call_to_action": "Télécharger maintenant",
+                  "desc": "Le widget météo en temps réel le plus fiable est ici! Téléchargez-le maintenant!",
+                  "lan": "fr",
+                  "title": "☔️Gadget météo en temps réel"
+                },
+                {
+                  "call_to_action": "Jetzt downloaden",
+                  "desc": "Das zuverlässigste Echtzeit-Wetter-Widget ist da! Jetzt herunterladen!",
+                  "lan": "de",
+                  "title": "☔️Echtzeit-Wettervorhersage-Gadget"
+                },
+                {
+                  "call_to_action": "Scarica ora",
+                  "desc": "Il widget meteo in tempo reale più affidabile è qui! Scaricalo ORA!",
+                  "lan": "it",
+                  "title": "☔️Applet previsioni meteo in tempo reale"
+                },
+                {
+                  "call_to_action": "ダウンロード中",
+                  "desc": "最も信頼性の高いリアルタイム天気ウィジェットがここにあります！",
+                  "lan": "ja",
+                  "title": "☔️リアルタイム天気予報アプレット"
+                },
+                {
+                  "call_to_action": "지금 다운로드하십시오",
+                  "desc": "가장 신뢰할 수있는 실시간 날씨 위젯이 여기에 있습니다! 지금 다운로드하십시오!",
+                  "lan": "ko",
+                  "title": "☔️실시간 일기 예보 애플릿"
+                },
+                {
+                  "call_to_action": "Baixe Agora",
+                  "desc": "O widget meteorológico em tempo real mais confiável está aqui! ",
+                  "lan": "pt",
+                  "title": "☔️Applet de previsão do tempo em tempo real"
+                },
+                {
+                  "call_to_action": "Baixe Agora",
+                  "desc": "O widget meteorológico em tempo real mais confiável está aqui! Baixe agora!",
+                  "lan": "pt",
+                  "title": "☔️Applet de previsão do tempo em tempo real"
+                },
+                {
+                  "call_to_action": "Скачать сейчас",
+                  "desc": "Самый надежный онлайн-Виджет погоды здесь! Скачайте сейчас!",
+                  "lan": "ru",
+                  "title": "☔️Гаджет прогноза погоды в режиме реального времени"
+                },
+                {
+                  "call_to_action": "Descargar ahora",
+                  "desc": "¡El widget meteorológico en tiempo real más confiable está aquí! ¡Descárgalo ahora!",
+                  "lan": "es",
+                  "title": "☔️Gadget de pronóstico del tiempo en tiempo real"
+                },
+                {
+                  "call_to_action": "Download NOW",
+                  "desc": "😊The most reliable real-time weather widget is here! Download it NOW!",
+                  "lan": "en",
+                  "title": "☔️Real-time weather widget"
+                }
+              ],
+              "icon_img": "http://d1f4dp0syfp2oq.cloudfront.net/upload/files/20190325104430663_icon_72.png",
+              "jump_link": "market://details?id=mobi.infolife.ezweather.livewallpaper.wealwp.radar.barometer.storm",
+              "main_img": "http://d1f4dp0syfp2oq.cloudfront.net/upload/files/20190325104443854_dasdasdas.jpg",
+              "referrer_campaign": "ad_backup_flow",
+              "step": 0
+            },
+            "placement_id": "2819",
+            "platform_id": 50010
+          }
+        ],
+        "timeout": "5000",
+        "concurrent": "2",
+        "app_placement_id": "20059"
+      },
+      {
+        "ad": [
+          {
+            "placement_app_id": "ca-app-pub-3935620297880745",
+            "placement_id": "ca-app-pub-3935620297880745/9452673566",
+            "platform_id": 50002
+          },
+          {
+            "placement_app_id": "ca-app-pub-3935620297880745",
+            "placement_id": "ca-app-pub-3935620297880745/5201394058",
+            "platform_id": 50002
+          },
+          {
+            "placement_app_id": "ca-app-pub-3935620297880745",
+            "placement_id": "ca-app-pub-3935620297880745/7444414014",
+            "platform_id": 50002
+          },
+          {
+            "placement_app_id": "3051",
+            "data": {
+              "background_img": "http://amber-files.s3.amazonaws.com/upload/files/20190219020345126_1.jpg",
+              "copywriting": [
+                {
+                  "call_to_action": "立刻下载",
+                  "desc": "号称东半球最准天气预测应用，准到想哭啊大兄弟！",
+                  "lan": "zh",
+                  "title": "实时天气预报小工具"
+                },
+                {
+                  "call_to_action": "立刻下載",
+                  "desc": "最可靠的實時天氣小部件就在這裡！马上下载吧！",
+                  "lan": "zh",
+                  "title": "實時天氣预报小工具"
+                },
+                {
+                  "call_to_action": "Télécharger maintenant",
+                  "desc": "Le widget météo en temps réel le plus fiable est ici! Téléchargez-le maintenant!",
+                  "lan": "fr",
+                  "title": "☔️Gadget météo en temps réel"
+                },
+                {
+                  "call_to_action": "Jetzt downloaden",
+                  "desc": "Das zuverlässigste Echtzeit-Wetter-Widget ist da! Jetzt herunterladen!",
+                  "lan": "de",
+                  "title": "☔️Echtzeit-Wettervorhersage-Gadget"
+                },
+                {
+                  "call_to_action": "Scarica ora",
+                  "desc": "Il widget meteo in tempo reale più affidabile è qui! Scaricalo ORA!",
+                  "lan": "it",
+                  "title": "☔️Applet previsioni meteo in tempo reale"
+                },
+                {
+                  "call_to_action": "ダウンロード中",
+                  "desc": "最も信頼性の高いリアルタイム天気ウィジェットがここにあります！",
+                  "lan": "ja",
+                  "title": "☔️リアルタイム天気予報アプレット"
+                },
+                {
+                  "call_to_action": "지금 다운로드하십시오",
+                  "desc": "가장 신뢰할 수있는 실시간 날씨 위젯이 여기에 있습니다! 지금 다운로드하십시오!",
+                  "lan": "ko",
+                  "title": "☔️실시간 일기 예보 애플릿"
+                },
+                {
+                  "call_to_action": "Baixe Agora",
+                  "desc": "O widget meteorológico em tempo real mais confiável está aqui! ",
+                  "lan": "pt",
+                  "title": "☔️Applet de previsão do tempo em tempo real"
+                },
+                {
+                  "call_to_action": "Baixe Agora",
+                  "desc": "O widget meteorológico em tempo real mais confiável está aqui! Baixe agora!",
+                  "lan": "pt",
+                  "title": "☔️Applet de previsão do tempo em tempo real"
+                },
+                {
+                  "call_to_action": "Скачать сейчас",
+                  "desc": "Самый надежный онлайн-Виджет погоды здесь! Скачайте сейчас!",
+                  "lan": "ru",
+                  "title": "☔️Гаджет прогноза погоды в режиме реального времени"
+                },
+                {
+                  "call_to_action": "Descargar ahora",
+                  "desc": "¡El widget meteorológico en tiempo real más confiable está aquí! ¡Descárgalo ahora!",
+                  "lan": "es",
+                  "title": "☔️Gadget de pronóstico del tiempo en tiempo real"
+                },
+                {
+                  "call_to_action": "Download NOW",
+                  "desc": "😊The most reliable real-time weather widget is here! Download it NOW!",
+                  "lan": "en",
+                  "title": "☔️Real-time weather widget"
+                }
+              ],
+              "icon_img": "http://d1f4dp0syfp2oq.cloudfront.net/upload/files/20190325104430663_icon_72.png",
+              "jump_link": "market://details?id=mobi.infolife.ezweather.livewallpaper.wealwp.radar.barometer.storm",
+              "main_img": "http://d1f4dp0syfp2oq.cloudfront.net/upload/files/20190325104443854_dasdasdas.jpg",
+              "referrer_campaign": "ad_backup_flow",
+              "step": 0
+            },
+            "placement_id": "2819",
+            "platform_id": 50010
+          }
+        ],
+        "timeout": "5000",
+        "concurrent": "2",
+        "app_placement_id": "20060"
+      },
+      {
+        "ad": [
+          {
+            "placement_app_id": "ca-app-pub-3935620297880745",
+            "placement_id": "ca-app-pub-3935620297880745/9737227525",
+            "platform_id": 50002
+          }
+        ],
+        "timeout": "5000",
+        "concurrent": "1",
+        "app_placement_id": "20061"
+      },
+      {
+        "ad": [
+          {
+            "placement_app_id": "ca-app-pub-3935620297880745",
+            "placement_id": "ca-app-pub-3935620297880745/6104192434",
+            "platform_id": 50002
+          },
+          {
+            "placement_app_id": "ca-app-pub-3935620297880745",
+            "placement_id": "ca-app-pub-3935620297880745/9574137967",
+            "platform_id": 50002
+          },
+          {
+            "placement_app_id": "ca-app-pub-3935620297880745/1416446340",
+            "placement_id": "ca-app-pub-3935620297880745/1416446340",
+            "platform_id": 50002
+          },
+          {
+            "placement_app_id": "3051",
+            "data": {
+              "background_img": "http://amber-files.s3.amazonaws.com/upload/files/20190219020345126_1.jpg",
+              "copywriting": [
+                {
+                  "call_to_action": "立刻下载",
+                  "desc": "号称东半球最准天气预测应用，准到想哭啊大兄弟！",
+                  "lan": "zh",
+                  "title": "实时天气预报小工具"
+                },
+                {
+                  "call_to_action": "立刻下載",
+                  "desc": "最可靠的實時天氣小部件就在這裡！马上下载吧！",
+                  "lan": "zh",
+                  "title": "實時天氣预报小工具"
+                },
+                {
+                  "call_to_action": "Télécharger maintenant",
+                  "desc": "Le widget météo en temps réel le plus fiable est ici! Téléchargez-le maintenant!",
+                  "lan": "fr",
+                  "title": "☔️Gadget météo en temps réel"
+                },
+                {
+                  "call_to_action": "Jetzt downloaden",
+                  "desc": "Das zuverlässigste Echtzeit-Wetter-Widget ist da! Jetzt herunterladen!",
+                  "lan": "de",
+                  "title": "☔️Echtzeit-Wettervorhersage-Gadget"
+                },
+                {
+                  "call_to_action": "Scarica ora",
+                  "desc": "Il widget meteo in tempo reale più affidabile è qui! Scaricalo ORA!",
+                  "lan": "it",
+                  "title": "☔️Applet previsioni meteo in tempo reale"
+                },
+                {
+                  "call_to_action": "ダウンロード中",
+                  "desc": "最も信頼性の高いリアルタイム天気ウィジェットがここにあります！",
+                  "lan": "ja",
+                  "title": "☔️リアルタイム天気予報アプレット"
+                },
+                {
+                  "call_to_action": "지금 다운로드하십시오",
+                  "desc": "가장 신뢰할 수있는 실시간 날씨 위젯이 여기에 있습니다! 지금 다운로드하십시오!",
+                  "lan": "ko",
+                  "title": "☔️실시간 일기 예보 애플릿"
+                },
+                {
+                  "call_to_action": "Baixe Agora",
+                  "desc": "O widget meteorológico em tempo real mais confiável está aqui! ",
+                  "lan": "pt",
+                  "title": "☔️Applet de previsão do tempo em tempo real"
+                },
+                {
+                  "call_to_action": "Baixe Agora",
+                  "desc": "O widget meteorológico em tempo real mais confiável está aqui! Baixe agora!",
+                  "lan": "pt",
+                  "title": "☔️Applet de previsão do tempo em tempo real"
+                },
+                {
+                  "call_to_action": "Скачать сейчас",
+                  "desc": "Самый надежный онлайн-Виджет погоды здесь! Скачайте сейчас!",
+                  "lan": "ru",
+                  "title": "☔️Гаджет прогноза погоды в режиме реального времени"
+                },
+                {
+                  "call_to_action": "Descargar ahora",
+                  "desc": "¡El widget meteorológico en tiempo real más confiable está aquí! ¡Descárgalo ahora!",
+                  "lan": "es",
+                  "title": "☔️Gadget de pronóstico del tiempo en tiempo real"
+                },
+                {
+                  "call_to_action": "Download NOW",
+                  "desc": "😊The most reliable real-time weather widget is here! Download it NOW!",
+                  "lan": "en",
+                  "title": "☔️Real-time weather widget"
+                }
+              ],
+              "icon_img": "http://d1f4dp0syfp2oq.cloudfront.net/upload/files/20190325104430663_icon_72.png",
+              "jump_link": "market://details?id=mobi.infolife.ezweather.livewallpaper.wealwp.radar.barometer.storm",
+              "main_img": "http://d1f4dp0syfp2oq.cloudfront.net/upload/files/20190325104443854_dasdasdas.jpg",
+              "referrer_campaign": "ad_backup_flow",
+              "step": 0
+            },
+            "placement_id": "2819",
+            "platform_id": 50010
+          }
+        ],
+        "timeout": "5000",
+        "concurrent": "2",
+        "app_placement_id": "20062"
+      },
+      {
+        "ad": [
+          {
+            "placement_app_id": "ca-app-pub-3935620297880745",
+            "placement_id": "ca-app-pub-3935620297880745/4673348932",
+            "platform_id": 50002
+          },
+          {
+            "placement_app_id": "6dc12b9a0def45a0aa611ec00384833d",
+            "placement_id": "6dc12b9a0def45a0aa611ec00384833d",
+            "platform_id": 50003
+          },
+          {
+            "placement_app_id": "3051",
+            "data": {
+              "background_img": "http://amber-files.s3.amazonaws.com/upload/files/20190219020345126_1.jpg",
+              "copywriting": [
+                {
+                  "call_to_action": "立刻下载",
+                  "desc": "号称东半球最准天气预测应用，准到想哭啊大兄弟！",
+                  "lan": "zh",
+                  "title": "实时天气预报小工具"
+                },
+                {
+                  "call_to_action": "立刻下載",
+                  "desc": "最可靠的實時天氣小部件就在這裡！马上下载吧！",
+                  "lan": "zh",
+                  "title": "實時天氣预报小工具"
+                },
+                {
+                  "call_to_action": "Télécharger maintenant",
+                  "desc": "Le widget météo en temps réel le plus fiable est ici! Téléchargez-le maintenant!",
+                  "lan": "fr",
+                  "title": "☔️Gadget météo en temps réel"
+                },
+                {
+                  "call_to_action": "Jetzt downloaden",
+                  "desc": "Das zuverlässigste Echtzeit-Wetter-Widget ist da! Jetzt herunterladen!",
+                  "lan": "de",
+                  "title": "☔️Echtzeit-Wettervorhersage-Gadget"
+                },
+                {
+                  "call_to_action": "Scarica ora",
+                  "desc": "Il widget meteo in tempo reale più affidabile è qui! Scaricalo ORA!",
+                  "lan": "it",
+                  "title": "☔️Applet previsioni meteo in tempo reale"
+                },
+                {
+                  "call_to_action": "ダウンロード中",
+                  "desc": "最も信頼性の高いリアルタイム天気ウィジェットがここにあります！",
+                  "lan": "ja",
+                  "title": "☔️リアルタイム天気予報アプレット"
+                },
+                {
+                  "call_to_action": "지금 다운로드하십시오",
+                  "desc": "가장 신뢰할 수있는 실시간 날씨 위젯이 여기에 있습니다! 지금 다운로드하십시오!",
+                  "lan": "ko",
+                  "title": "☔️실시간 일기 예보 애플릿"
+                },
+                {
+                  "call_to_action": "Baixe Agora",
+                  "desc": "O widget meteorológico em tempo real mais confiável está aqui! ",
+                  "lan": "pt",
+                  "title": "☔️Applet de previsão do tempo em tempo real"
+                },
+                {
+                  "call_to_action": "Baixe Agora",
+                  "desc": "O widget meteorológico em tempo real mais confiável está aqui! Baixe agora!",
+                  "lan": "pt",
+                  "title": "☔️Applet de previsão do tempo em tempo real"
+                },
+                {
+                  "call_to_action": "Скачать сейчас",
+                  "desc": "Самый надежный онлайн-Виджет погоды здесь! Скачайте сейчас!",
+                  "lan": "ru",
+                  "title": "☔️Гаджет прогноза погоды в режиме реального времени"
+                },
+                {
+                  "call_to_action": "Descargar ahora",
+                  "desc": "¡El widget meteorológico en tiempo real más confiable está aquí! ¡Descárgalo ahora!",
+                  "lan": "es",
+                  "title": "☔️Gadget de pronóstico del tiempo en tiempo real"
+                },
+                {
+                  "call_to_action": "Download NOW",
+                  "desc": "😊The most reliable real-time weather widget is here! Download it NOW!",
+                  "lan": "en",
+                  "title": "☔️Real-time weather widget"
+                }
+              ],
+              "icon_img": "http://d1f4dp0syfp2oq.cloudfront.net/upload/files/20190325104430663_icon_72.png",
+              "jump_link": "market://details?id=mobi.infolife.ezweather.livewallpaper.wealwp.radar.barometer.storm",
+              "main_img": "http://d1f4dp0syfp2oq.cloudfront.net/upload/files/20190325104443854_dasdasdas.jpg",
+              "referrer_campaign": "ad_backup_flow",
+              "step": 0
+            },
+            "placement_id": "2819",
+            "platform_id": 50010
+          }
+        ],
+        "timeout": "5000",
+        "concurrent": "1",
+        "app_placement_id": "20337"
+      },
+      {
+        "ad": [
+          {
+            "placement_app_id": "ca-app-pub-3935620297880745",
+            "placement_id": "ca-app-pub-3935620297880745/8464911014",
+            "platform_id": 50002
+          },
+          {
+            "placement_app_id": "ca-app-pub-3935620297880745",
+            "placement_id": "ca-app-pub-3935620297880745/9203277610",
+            "platform_id": 50002
+          },
+          {
+            "placement_app_id": "ca-app-pub-3935620297880745",
+            "placement_id": "ca-app-pub-3935620297880745/2446297571",
+            "platform_id": 50002
+          },
+          {
+            "placement_app_id": "3051",
+            "data": {
+              "background_img": "http://amber-files.s3.amazonaws.com/upload/files/20190219020345126_1.jpg",
+              "copywriting": [
+                {
+                  "call_to_action": "立刻下载",
+                  "desc": "号称东半球最准天气预测应用，准到想哭啊大兄弟！",
+                  "lan": "zh",
+                  "title": "实时天气预报小工具"
+                },
+                {
+                  "call_to_action": "立刻下載",
+                  "desc": "最可靠的實時天氣小部件就在這裡！马上下载吧！",
+                  "lan": "zh",
+                  "title": "實時天氣预报小工具"
+                },
+                {
+                  "call_to_action": "Télécharger maintenant",
+                  "desc": "Le widget météo en temps réel le plus fiable est ici! Téléchargez-le maintenant!",
+                  "lan": "fr",
+                  "title": "☔️Gadget météo en temps réel"
+                },
+                {
+                  "call_to_action": "Jetzt downloaden",
+                  "desc": "Das zuverlässigste Echtzeit-Wetter-Widget ist da! Jetzt herunterladen!",
+                  "lan": "de",
+                  "title": "☔️Echtzeit-Wettervorhersage-Gadget"
+                },
+                {
+                  "call_to_action": "Scarica ora",
+                  "desc": "Il widget meteo in tempo reale più affidabile è qui! Scaricalo ORA!",
+                  "lan": "it",
+                  "title": "☔️Applet previsioni meteo in tempo reale"
+                },
+                {
+                  "call_to_action": "ダウンロード中",
+                  "desc": "最も信頼性の高いリアルタイム天気ウィジェットがここにあります！",
+                  "lan": "ja",
+                  "title": "☔️リアルタイム天気予報アプレット"
+                },
+                {
+                  "call_to_action": "지금 다운로드하십시오",
+                  "desc": "가장 신뢰할 수있는 실시간 날씨 위젯이 여기에 있습니다! 지금 다운로드하십시오!",
+                  "lan": "ko",
+                  "title": "☔️실시간 일기 예보 애플릿"
+                },
+                {
+                  "call_to_action": "Baixe Agora",
+                  "desc": "O widget meteorológico em tempo real mais confiável está aqui! ",
+                  "lan": "pt",
+                  "title": "☔️Applet de previsão do tempo em tempo real"
+                },
+                {
+                  "call_to_action": "Baixe Agora",
+                  "desc": "O widget meteorológico em tempo real mais confiável está aqui! Baixe agora!",
+                  "lan": "pt",
+                  "title": "☔️Applet de previsão do tempo em tempo real"
+                },
+                {
+                  "call_to_action": "Скачать сейчас",
+                  "desc": "Самый надежный онлайн-Виджет погоды здесь! Скачайте сейчас!",
+                  "lan": "ru",
+                  "title": "☔️Гаджет прогноза погоды в режиме реального времени"
+                },
+                {
+                  "call_to_action": "Descargar ahora",
+                  "desc": "¡El widget meteorológico en tiempo real más confiable está aquí! ¡Descárgalo ahora!",
+                  "lan": "es",
+                  "title": "☔️Gadget de pronóstico del tiempo en tiempo real"
+                },
+                {
+                  "call_to_action": "Download NOW",
+                  "desc": "😊The most reliable real-time weather widget is here! Download it NOW!",
+                  "lan": "en",
+                  "title": "☔️Real-time weather widget"
+                }
+              ],
+              "icon_img": "http://d1f4dp0syfp2oq.cloudfront.net/upload/files/20190325104430663_icon_72.png",
+              "jump_link": "market://details?id=mobi.infolife.ezweather.livewallpaper.wealwp.radar.barometer.storm",
+              "main_img": "http://d1f4dp0syfp2oq.cloudfront.net/upload/files/20190325104443854_dasdasdas.jpg",
+              "referrer_campaign": "ad_backup_flow",
+              "step": 0
+            },
+            "placement_id": "2819",
+            "platform_id": 50010
+          },
+          {
+            "placement_app_id": "ca-app-pub-3935620297880745",
+            "placement_id": "ca-app-pub-3935620297880745/6876760464",
+            "platform_id": 50002
+          }
+        ],
+        "timeout": "5000",
+        "concurrent": "2",
+        "app_placement_id": "20388"
+      },
+      {
+        "ad": [
+          {
+            "placement_app_id": "ca-app-pub-3935620297880745",
+            "placement_id": "ca-app-pub-3935620297880745/8347437773",
+            "platform_id": 50002
+          },
+          {
+            "placement_app_id": "3051",
+            "data": {
+              "background_img": "http://amber-files.s3.amazonaws.com/upload/files/20190219020345126_1.jpg",
+              "copywriting": [
+                {
+                  "call_to_action": "立刻下载",
+                  "desc": "号称东半球最准天气预测应用，准到想哭啊大兄弟！",
+                  "lan": "zh",
+                  "title": "实时天气预报小工具"
+                },
+                {
+                  "call_to_action": "立刻下載",
+                  "desc": "最可靠的實時天氣小部件就在這裡！马上下载吧！",
+                  "lan": "zh",
+                  "title": "實時天氣预报小工具"
+                },
+                {
+                  "call_to_action": "Télécharger maintenant",
+                  "desc": "Le widget météo en temps réel le plus fiable est ici! Téléchargez-le maintenant!",
+                  "lan": "fr",
+                  "title": "☔️Gadget météo en temps réel"
+                },
+                {
+                  "call_to_action": "Jetzt downloaden",
+                  "desc": "Das zuverlässigste Echtzeit-Wetter-Widget ist da! Jetzt herunterladen!",
+                  "lan": "de",
+                  "title": "☔️Echtzeit-Wettervorhersage-Gadget"
+                },
+                {
+                  "call_to_action": "Scarica ora",
+                  "desc": "Il widget meteo in tempo reale più affidabile è qui! Scaricalo ORA!",
+                  "lan": "it",
+                  "title": "☔️Applet previsioni meteo in tempo reale"
+                },
+                {
+                  "call_to_action": "ダウンロード中",
+                  "desc": "最も信頼性の高いリアルタイム天気ウィジェットがここにあります！",
+                  "lan": "ja",
+                  "title": "☔️リアルタイム天気予報アプレット"
+                },
+                {
+                  "call_to_action": "지금 다운로드하십시오",
+                  "desc": "가장 신뢰할 수있는 실시간 날씨 위젯이 여기에 있습니다! 지금 다운로드하십시오!",
+                  "lan": "ko",
+                  "title": "☔️실시간 일기 예보 애플릿"
+                },
+                {
+                  "call_to_action": "Baixe Agora",
+                  "desc": "O widget meteorológico em tempo real mais confiável está aqui! ",
+                  "lan": "pt",
+                  "title": "☔️Applet de previsão do tempo em tempo real"
+                },
+                {
+                  "call_to_action": "Baixe Agora",
+                  "desc": "O widget meteorológico em tempo real mais confiável está aqui! Baixe agora!",
+                  "lan": "pt",
+                  "title": "☔️Applet de previsão do tempo em tempo real"
+                },
+                {
+                  "call_to_action": "Скачать сейчас",
+                  "desc": "Самый надежный онлайн-Виджет погоды здесь! Скачайте сейчас!",
+                  "lan": "ru",
+                  "title": "☔️Гаджет прогноза погоды в режиме реального времени"
+                },
+                {
+                  "call_to_action": "Descargar ahora",
+                  "desc": "¡El widget meteorológico en tiempo real más confiable está aquí! ¡Descárgalo ahora!",
+                  "lan": "es",
+                  "title": "☔️Gadget de pronóstico del tiempo en tiempo real"
+                },
+                {
+                  "call_to_action": "Download NOW",
+                  "desc": "😊The most reliable real-time weather widget is here! Download it NOW!",
+                  "lan": "en",
+                  "title": "☔️Real-time weather widget"
+                }
+              ],
+              "icon_img": "http://d1f4dp0syfp2oq.cloudfront.net/upload/files/20190325104430663_icon_72.png",
+              "jump_link": "market://details?id=mobi.infolife.ezweather.livewallpaper.wealwp.radar.barometer.storm",
+              "main_img": "http://d1f4dp0syfp2oq.cloudfront.net/upload/files/20190325104443854_dasdasdas.jpg",
+              "referrer_campaign": "ad_backup_flow",
+              "step": 0
+            },
+            "placement_id": "2819",
+            "platform_id": 50010
+          }
+        ],
+        "timeout": "5000",
+        "concurrent": "1",
+        "app_placement_id": "20392"
+      },
+      {
+        "ad": [
+          {
+            "placement_app_id": "ca-app-pub-3935620297880745",
+            "placement_id": "ca-app-pub-3935620297880745/3145655208",
+            "platform_id": 50002
+          },
+          {
+            "placement_app_id": "7c3940ae9b3a4bf598df50ae7f626c08",
+            "placement_id": "7c3940ae9b3a4bf598df50ae7f626c08",
+            "platform_id": 50003
+          },
+          {
+            "placement_app_id": "ca-app-pub-3935620297880745",
+            "placement_id": "ca-app-pub-3935620297880745/7736826273",
+            "platform_id": 50002
+          },
+          {
+            "placement_app_id": "7e943f824b88489dbb0a2bf927f3a004",
+            "placement_id": "7e943f824b88489dbb0a2bf927f3a004",
+            "platform_id": 50003
+          },
+          {
+            "placement_app_id": "3051",
+            "data": {
+              "background_img": "http://amber-files.s3.amazonaws.com/upload/files/20190219020345126_1.jpg",
+              "copywriting": [
+                {
+                  "call_to_action": "立刻下载",
+                  "desc": "号称东半球最准天气预测应用，准到想哭啊大兄弟！",
+                  "lan": "zh",
+                  "title": "实时天气预报小工具"
+                },
+                {
+                  "call_to_action": "立刻下載",
+                  "desc": "最可靠的實時天氣小部件就在這裡！马上下载吧！",
+                  "lan": "zh",
+                  "title": "實時天氣预报小工具"
+                },
+                {
+                  "call_to_action": "Télécharger maintenant",
+                  "desc": "Le widget météo en temps réel le plus fiable est ici! Téléchargez-le maintenant!",
+                  "lan": "fr",
+                  "title": "☔️Gadget météo en temps réel"
+                },
+                {
+                  "call_to_action": "Jetzt downloaden",
+                  "desc": "Das zuverlässigste Echtzeit-Wetter-Widget ist da! Jetzt herunterladen!",
+                  "lan": "de",
+                  "title": "☔️Echtzeit-Wettervorhersage-Gadget"
+                },
+                {
+                  "call_to_action": "Scarica ora",
+                  "desc": "Il widget meteo in tempo reale più affidabile è qui! Scaricalo ORA!",
+                  "lan": "it",
+                  "title": "☔️Applet previsioni meteo in tempo reale"
+                },
+                {
+                  "call_to_action": "ダウンロード中",
+                  "desc": "最も信頼性の高いリアルタイム天気ウィジェットがここにあります！",
+                  "lan": "ja",
+                  "title": "☔️リアルタイム天気予報アプレット"
+                },
+                {
+                  "call_to_action": "지금 다운로드하십시오",
+                  "desc": "가장 신뢰할 수있는 실시간 날씨 위젯이 여기에 있습니다! 지금 다운로드하십시오!",
+                  "lan": "ko",
+                  "title": "☔️실시간 일기 예보 애플릿"
+                },
+                {
+                  "call_to_action": "Baixe Agora",
+                  "desc": "O widget meteorológico em tempo real mais confiável está aqui! ",
+                  "lan": "pt",
+                  "title": "☔️Applet de previsão do tempo em tempo real"
+                },
+                {
+                  "call_to_action": "Baixe Agora",
+                  "desc": "O widget meteorológico em tempo real mais confiável está aqui! Baixe agora!",
+                  "lan": "pt",
+                  "title": "☔️Applet de previsão do tempo em tempo real"
+                },
+                {
+                  "call_to_action": "Скачать сейчас",
+                  "desc": "Самый надежный онлайн-Виджет погоды здесь! Скачайте сейчас!",
+                  "lan": "ru",
+                  "title": "☔️Гаджет прогноза погоды в режиме реального времени"
+                },
+                {
+                  "call_to_action": "Descargar ahora",
+                  "desc": "¡El widget meteorológico en tiempo real más confiable está aquí! ¡Descárgalo ahora!",
+                  "lan": "es",
+                  "title": "☔️Gadget de pronóstico del tiempo en tiempo real"
+                },
+                {
+                  "call_to_action": "Download NOW",
+                  "desc": "😊The most reliable real-time weather widget is here! Download it NOW!",
+                  "lan": "en",
+                  "title": "☔️Real-time weather widget"
+                }
+              ],
+              "icon_img": "http://d1f4dp0syfp2oq.cloudfront.net/upload/files/20190325104430663_icon_72.png",
+              "jump_link": "market://details?id=mobi.infolife.ezweather.livewallpaper.wealwp.radar.barometer.storm",
+              "main_img": "http://d1f4dp0syfp2oq.cloudfront.net/upload/files/20190325104443854_dasdasdas.jpg",
+              "referrer_campaign": "ad_backup_flow",
+              "step": 0
+            },
+            "placement_id": "2819",
+            "platform_id": 50010
+          }
+        ],
+        "timeout": "5000",
+        "concurrent": "2",
+        "app_placement_id": "20416"
+      },
+      {
+        "ad": [
+          {
+            "placement_app_id": "ca-app-pub-3935620297880745",
+            "placement_id": "ca-app-pub-3935620297880745/4533164273",
+            "platform_id": 50002
+          }
+        ],
+        "timeout": "5000",
+        "concurrent": "1",
+        "app_placement_id": "20489"
+      },
+      {
+        "ad": [
+          {
+            "placement_app_id": "ca-app-pub-3935620297880745",
+            "placement_id": "ca-app-pub-3935620297880745/3844389824",
+            "platform_id": 50002
+          }
+        ],
+        "timeout": "5000",
+        "concurrent": "1",
+        "app_placement_id": "20490"
+      },
+      {
+        "ad": [
+          {
+            "placement_app_id": "ca-app-pub-3935620297880745",
+            "placement_id": "ca-app-pub-3935620297880745/9006336721",
+            "platform_id": 50002
+          }
+        ],
+        "timeout": "5000",
+        "concurrent": "1",
+        "app_placement_id": "20491"
+      },
+      {
+        "ad": [
+          {
+            "placement_app_id": "ca-app-pub-3935620297880745",
+            "placement_id": "ca-app-pub-3935620297880745/5886430939",
+            "platform_id": 50002
+          }
+        ],
+        "timeout": "5000",
+        "concurrent": "1",
+        "app_placement_id": "20492"
+      },
+      {
+        "ad": [
+          {
+            "placement_app_id": "ca-app-pub-3935620297880745",
+            "placement_id": "ca-app-pub-3935620297880745/8922576244",
+            "platform_id": 50002
+          }
+        ],
+        "timeout": "5000",
+        "concurrent": "1",
+        "app_placement_id": "20493"
+      },
+      {
+        "ad": [
+          {
+            "placement_app_id": "ca-app-pub-3935620297880745",
+            "placement_id": "ca-app-pub-3935620297880745/3596977818",
+            "platform_id": 50002
+          }
+        ],
+        "timeout": "5000",
+        "concurrent": "1",
+        "app_placement_id": "20494"
+      },
+      {
+        "ad": [
+          {
+            "placement_app_id": "ca-app-pub-3935620297880745",
+            "placement_id": "ca-app-pub-3935620297880745/1900752764",
+            "platform_id": 50002
+          }
+        ],
+        "timeout": "5000",
+        "concurrent": "1",
+        "app_placement_id": "20495"
+      },
+      {
+        "ad": [
+          {
+            "placement_app_id": "ca-app-pub-3935620297880745",
+            "placement_id": "ca-app-pub-3935620297880745/9643511415",
+            "platform_id": 50002
+          }
+        ],
+        "timeout": "5000",
+        "concurrent": "1",
+        "app_placement_id": "20496"
+      },
+      {
+        "ad": [
+          {
+            "placement_app_id": "ca-app-pub-3935620297880745",
+            "placement_id": "ca-app-pub-3935620297880745/8354480473",
+            "platform_id": 50002
+          }
+        ],
+        "timeout": "5000",
+        "concurrent": "1",
+        "app_placement_id": "20497"
+      },
+      {
+        "ad": [
+          {
+            "placement_app_id": "ca-app-pub-3935620297880745",
+            "placement_id": "ca-app-pub-3935620297880745/7949665102",
+            "platform_id": 50002
+          }
+        ],
+        "timeout": "5000",
+        "concurrent": "1",
+        "app_placement_id": "20498"
+      },
+      {
+        "ad": [
+          {
+            "placement_app_id": "ca-app-pub-3935620297880745",
+            "placement_id": "ca-app-pub-3935620297880745/6804760937",
+            "platform_id": 50002
+          }
+        ],
+        "timeout": "5000",
+        "concurrent": "1",
+        "app_placement_id": "20499"
+      },
+      {
+        "ad": [
+          {
+            "placement_app_id": "ca-app-pub-3935620297880745",
+            "placement_id": "ca-app-pub-3935620297880745/7198431031",
+            "platform_id": 50002
+          }
+        ],
+        "timeout": "5000",
+        "concurrent": "1",
+        "app_placement_id": "20500"
+      },
+      {
+        "ad": [
+          {
+            "placement_app_id": "ca-app-pub-3935620297880745",
+            "placement_id": "ca-app-pub-3935620297880745/3715315744",
+            "platform_id": 50002
+          }
+        ],
+        "timeout": "5000",
+        "concurrent": "1",
+        "app_placement_id": "20501"
+      },
+      {
+        "ad": [
+          {
+            "placement_app_id": "ca-app-pub-3935620297880745",
+            "placement_id": "ca-app-pub-3935620297880745/4262110657",
+            "platform_id": 50002
+          }
+        ],
+        "timeout": "5000",
+        "concurrent": "1",
+        "app_placement_id": "20502"
+      },
+      {
+        "ad": [
+          {
+            "placement_app_id": "ca-app-pub-3935620297880745",
+            "placement_id": "ca-app-pub-3935620297880745/3395751546",
+            "platform_id": 50002
+          }
+        ],
+        "timeout": "5000",
+        "concurrent": "1",
+        "app_placement_id": "20503"
+      },
+      {
+        "ad": [
+          {
+            "placement_app_id": "ca-app-pub-3935620297880745",
+            "placement_id": "ca-app-pub-3935620297880745/2374313912",
+            "platform_id": 50002
+          }
+        ],
+        "timeout": "5000",
+        "concurrent": "1",
+        "app_placement_id": "20504"
+      },
+      {
+        "ad": [
+          {
+            "placement_app_id": "ca-app-pub-3935620297880745",
+            "placement_id": "ca-app-pub-3935620297880745/8615524294",
+            "platform_id": 50002
+          },
+          {
+            "placement_app_id": "3051",
+            "data": {
+              "background_img": "http://amber-files.s3.amazonaws.com/upload/files/20190219020345126_1.jpg",
+              "copywriting": [
+                {
+                  "call_to_action": "立刻下载",
+                  "desc": "号称东半球最准天气预测应用，准到想哭啊大兄弟！",
+                  "lan": "zh",
+                  "title": "实时天气预报小工具"
+                },
+                {
+                  "call_to_action": "立刻下載",
+                  "desc": "最可靠的實時天氣小部件就在這裡！马上下载吧！",
+                  "lan": "zh",
+                  "title": "實時天氣预报小工具"
+                },
+                {
+                  "call_to_action": "Télécharger maintenant",
+                  "desc": "Le widget météo en temps réel le plus fiable est ici! Téléchargez-le maintenant!",
+                  "lan": "fr",
+                  "title": "☔️Gadget météo en temps réel"
+                },
+                {
+                  "call_to_action": "Jetzt downloaden",
+                  "desc": "Das zuverlässigste Echtzeit-Wetter-Widget ist da! Jetzt herunterladen!",
+                  "lan": "de",
+                  "title": "☔️Echtzeit-Wettervorhersage-Gadget"
+                },
+                {
+                  "call_to_action": "Scarica ora",
+                  "desc": "Il widget meteo in tempo reale più affidabile è qui! Scaricalo ORA!",
+                  "lan": "it",
+                  "title": "☔️Applet previsioni meteo in tempo reale"
+                },
+                {
+                  "call_to_action": "ダウンロード中",
+                  "desc": "最も信頼性の高いリアルタイム天気ウィジェットがここにあります！",
+                  "lan": "ja",
+                  "title": "☔️リアルタイム天気予報アプレット"
+                },
+                {
+                  "call_to_action": "지금 다운로드하십시오",
+                  "desc": "가장 신뢰할 수있는 실시간 날씨 위젯이 여기에 있습니다! 지금 다운로드하십시오!",
+                  "lan": "ko",
+                  "title": "☔️실시간 일기 예보 애플릿"
+                },
+                {
+                  "call_to_action": "Baixe Agora",
+                  "desc": "O widget meteorológico em tempo real mais confiável está aqui! ",
+                  "lan": "pt",
+                  "title": "☔️Applet de previsão do tempo em tempo real"
+                },
+                {
+                  "call_to_action": "Baixe Agora",
+                  "desc": "O widget meteorológico em tempo real mais confiável está aqui! Baixe agora!",
+                  "lan": "pt",
+                  "title": "☔️Applet de previsão do tempo em tempo real"
+                },
+                {
+                  "call_to_action": "Скачать сейчас",
+                  "desc": "Самый надежный онлайн-Виджет погоды здесь! Скачайте сейчас!",
+                  "lan": "ru",
+                  "title": "☔️Гаджет прогноза погоды в режиме реального времени"
+                },
+                {
+                  "call_to_action": "Descargar ahora",
+                  "desc": "¡El widget meteorológico en tiempo real más confiable está aquí! ¡Descárgalo ahora!",
+                  "lan": "es",
+                  "title": "☔️Gadget de pronóstico del tiempo en tiempo real"
+                },
+                {
+                  "call_to_action": "Download NOW",
+                  "desc": "😊The most reliable real-time weather widget is here! Download it NOW!",
+                  "lan": "en",
+                  "title": "☔️Real-time weather widget"
+                }
+              ],
+              "icon_img": "http://d1f4dp0syfp2oq.cloudfront.net/upload/files/20190325104430663_icon_72.png",
+              "jump_link": "market://details?id=mobi.infolife.ezweather.livewallpaper.wealwp.radar.barometer.storm",
+              "main_img": "http://d1f4dp0syfp2oq.cloudfront.net/upload/files/20190325104443854_dasdasdas.jpg",
+              "referrer_campaign": "ad_backup_flow",
+              "step": 0
+            },
+            "placement_id": "2819",
+            "platform_id": 50010
+          }
+        ],
+        "timeout": "5000",
+        "concurrent": "1",
+        "app_placement_id": "20509"
+      },
+      {
+        "ad": [
+          {
+            "placement_app_id": "ca-app-pub-3935620297880745",
+            "placement_id": "ca-app-pub-3935620297880745/4997109805",
+            "platform_id": 50002
+          }
+        ],
+        "timeout": "5000",
+        "concurrent": "1",
+        "app_placement_id": "20557"
+      },
+      {
+        "ad": [
+          {
+            "placement_app_id": "ca-app-pub-3935620297880745",
+            "placement_id": "ca-app-pub-3935620297880745/5934786953",
+            "platform_id": 50002
+          }
+        ],
+        "timeout": "5000",
+        "concurrent": "1",
+        "app_placement_id": "20558"
+      },
+      {
+        "ad": [
+          {
+            "placement_app_id": "ca-app-pub-3935620297880745",
+            "placement_id": "ca-app-pub-3935620297880745/1363610809",
+            "platform_id": 50002
+          }
+        ],
+        "timeout": "5000",
+        "concurrent": "1",
+        "app_placement_id": "20675"
+      },
+      {
+        "ad": [
+          {
+            "placement_app_id": "ca-app-pub-3935620297880745",
+            "placement_id": "ca-app-pub-3935620297880745/7956923400",
+            "platform_id": 50002
+          }
+        ],
+        "timeout": "5000",
+        "concurrent": "1",
+        "app_placement_id": "20676"
+      },
+      {
+        "ad": [
+          {
+            "placement_app_id": "ca-app-pub-3935620297880745",
+            "placement_id": "ca-app-pub-3935620297880745/4326006403",
+            "platform_id": 50002
+          },
+          {
+            "placement_app_id": "ca-app-pub-3935620297880745",
+            "placement_id": "ca-app-pub-3935620297880745/1149178721",
+            "platform_id": 50002
+          },
+          {
+            "placement_app_id": "3051",
+            "data": {
+              "background_img": "http://amber-files.s3.amazonaws.com/upload/files/20190219020345126_1.jpg",
+              "copywriting": [
+                {
+                  "call_to_action": "立刻下载",
+                  "desc": "号称东半球最准天气预测应用，准到想哭啊大兄弟！",
+                  "lan": "zh",
+                  "title": "实时天气预报小工具"
+                },
+                {
+                  "call_to_action": "立刻下載",
+                  "desc": "最可靠的實時天氣小部件就在這裡！马上下载吧！",
+                  "lan": "zh",
+                  "title": "實時天氣预报小工具"
+                },
+                {
+                  "call_to_action": "Télécharger maintenant",
+                  "desc": "Le widget météo en temps réel le plus fiable est ici! Téléchargez-le maintenant!",
+                  "lan": "fr",
+                  "title": "☔️Gadget météo en temps réel"
+                },
+                {
+                  "call_to_action": "Jetzt downloaden",
+                  "desc": "Das zuverlässigste Echtzeit-Wetter-Widget ist da! Jetzt herunterladen!",
+                  "lan": "de",
+                  "title": "☔️Echtzeit-Wettervorhersage-Gadget"
+                },
+                {
+                  "call_to_action": "Scarica ora",
+                  "desc": "Il widget meteo in tempo reale più affidabile è qui! Scaricalo ORA!",
+                  "lan": "it",
+                  "title": "☔️Applet previsioni meteo in tempo reale"
+                },
+                {
+                  "call_to_action": "ダウンロード中",
+                  "desc": "最も信頼性の高いリアルタイム天気ウィジェットがここにあります！",
+                  "lan": "ja",
+                  "title": "☔️リアルタイム天気予報アプレット"
+                },
+                {
+                  "call_to_action": "지금 다운로드하십시오",
+                  "desc": "가장 신뢰할 수있는 실시간 날씨 위젯이 여기에 있습니다! 지금 다운로드하십시오!",
+                  "lan": "ko",
+                  "title": "☔️실시간 일기 예보 애플릿"
+                },
+                {
+                  "call_to_action": "Baixe Agora",
+                  "desc": "O widget meteorológico em tempo real mais confiável está aqui! ",
+                  "lan": "pt",
+                  "title": "☔️Applet de previsão do tempo em tempo real"
+                },
+                {
+                  "call_to_action": "Baixe Agora",
+                  "desc": "O widget meteorológico em tempo real mais confiável está aqui! Baixe agora!",
+                  "lan": "pt",
+                  "title": "☔️Applet de previsão do tempo em tempo real"
+                },
+                {
+                  "call_to_action": "Скачать сейчас",
+                  "desc": "Самый надежный онлайн-Виджет погоды здесь! Скачайте сейчас!",
+                  "lan": "ru",
+                  "title": "☔️Гаджет прогноза погоды в режиме реального времени"
+                },
+                {
+                  "call_to_action": "Descargar ahora",
+                  "desc": "¡El widget meteorológico en tiempo real más confiable está aquí! ¡Descárgalo ahora!",
+                  "lan": "es",
+                  "title": "☔️Gadget de pronóstico del tiempo en tiempo real"
+                },
+                {
+                  "call_to_action": "Download NOW",
+                  "desc": "😊The most reliable real-time weather widget is here! Download it NOW!",
+                  "lan": "en",
+                  "title": "☔️Real-time weather widget"
+                }
+              ],
+              "icon_img": "http://d1f4dp0syfp2oq.cloudfront.net/upload/files/20190325104430663_icon_72.png",
+              "jump_link": "market://details?id=mobi.infolife.ezweather.livewallpaper.wealwp.radar.barometer.storm",
+              "main_img": "http://d1f4dp0syfp2oq.cloudfront.net/upload/files/20190325104443854_dasdasdas.jpg",
+              "referrer_campaign": "ad_backup_flow",
+              "step": 0
+            },
+            "placement_id": "2819",
+            "platform_id": 50010
+          }
+        ],
+        "timeout": "10000",
+        "concurrent": "2",
+        "app_placement_id": "20978"
+      },
+      {
+        "ad": [
+          {
+            "placement_app_id": "ca-app-pub-3935620297880745",
+            "placement_id": "ca-app-pub-3935620297880745/1444458080",
+            "platform_id": 50002
+          },
+          {
+            "placement_app_id": "ca-app-pub-3935620297880745",
+            "placement_id": "ca-app-pub-3935620297880745/8939804721",
+            "platform_id": 50002
+          },
+          {
+            "placement_app_id": "ca-app-pub-3935620297880745",
+            "placement_id": "ca-app-pub-3935620297880745/8748233033",
+            "platform_id": 50002
+          },
+          {
+            "placement_app_id": "3051",
+            "data": {
+              "background_img": "http://amber-files.s3.amazonaws.com/upload/files/20190219020345126_1.jpg",
+              "copywriting": [
+                {
+                  "call_to_action": "立刻下载",
+                  "desc": "号称东半球最准天气预测应用，准到想哭啊大兄弟！",
+                  "lan": "zh",
+                  "title": "实时天气预报小工具"
+                },
+                {
+                  "call_to_action": "立刻下載",
+                  "desc": "最可靠的實時天氣小部件就在這裡！马上下载吧！",
+                  "lan": "zh",
+                  "title": "實時天氣预报小工具"
+                },
+                {
+                  "call_to_action": "Télécharger maintenant",
+                  "desc": "Le widget météo en temps réel le plus fiable est ici! Téléchargez-le maintenant!",
+                  "lan": "fr",
+                  "title": "☔️Gadget météo en temps réel"
+                },
+                {
+                  "call_to_action": "Jetzt downloaden",
+                  "desc": "Das zuverlässigste Echtzeit-Wetter-Widget ist da! Jetzt herunterladen!",
+                  "lan": "de",
+                  "title": "☔️Echtzeit-Wettervorhersage-Gadget"
+                },
+                {
+                  "call_to_action": "Scarica ora",
+                  "desc": "Il widget meteo in tempo reale più affidabile è qui! Scaricalo ORA!",
+                  "lan": "it",
+                  "title": "☔️Applet previsioni meteo in tempo reale"
+                },
+                {
+                  "call_to_action": "ダウンロード中",
+                  "desc": "最も信頼性の高いリアルタイム天気ウィジェットがここにあります！",
+                  "lan": "ja",
+                  "title": "☔️リアルタイム天気予報アプレット"
+                },
+                {
+                  "call_to_action": "지금 다운로드하십시오",
+                  "desc": "가장 신뢰할 수있는 실시간 날씨 위젯이 여기에 있습니다! 지금 다운로드하십시오!",
+                  "lan": "ko",
+                  "title": "☔️실시간 일기 예보 애플릿"
+                },
+                {
+                  "call_to_action": "Baixe Agora",
+                  "desc": "O widget meteorológico em tempo real mais confiável está aqui! ",
+                  "lan": "pt",
+                  "title": "☔️Applet de previsão do tempo em tempo real"
+                },
+                {
+                  "call_to_action": "Baixe Agora",
+                  "desc": "O widget meteorológico em tempo real mais confiável está aqui! Baixe agora!",
+                  "lan": "pt",
+                  "title": "☔️Applet de previsão do tempo em tempo real"
+                },
+                {
+                  "call_to_action": "Скачать сейчас",
+                  "desc": "Самый надежный онлайн-Виджет погоды здесь! Скачайте сейчас!",
+                  "lan": "ru",
+                  "title": "☔️Гаджет прогноза погоды в режиме реального времени"
+                },
+                {
+                  "call_to_action": "Descargar ahora",
+                  "desc": "¡El widget meteorológico en tiempo real más confiable está aquí! ¡Descárgalo ahora!",
+                  "lan": "es",
+                  "title": "☔️Gadget de pronóstico del tiempo en tiempo real"
+                },
+                {
+                  "call_to_action": "Download NOW",
+                  "desc": "😊The most reliable real-time weather widget is here! Download it NOW!",
+                  "lan": "en",
+                  "title": "☔️Real-time weather widget"
+                }
+              ],
+              "icon_img": "http://d1f4dp0syfp2oq.cloudfront.net/upload/files/20190325104430663_icon_72.png",
+              "jump_link": "market://details?id=mobi.infolife.ezweather.livewallpaper.wealwp.radar.barometer.storm",
+              "main_img": "http://d1f4dp0syfp2oq.cloudfront.net/upload/files/20190325104443854_dasdasdas.jpg",
+              "referrer_campaign": "ad_backup_flow",
+              "step": 0
+            },
+            "placement_id": "2819",
+            "platform_id": 50010
+          }
+        ],
+        "timeout": "5000",
+        "concurrent": "1",
+        "app_placement_id": "21028"
+      },
+      {
+        "ad": [
+          {
+            "placement_app_id": "ca-app-pub-3935620297880745",
+            "placement_id": "ca-app-pub-3935620297880745/7077199696",
+            "platform_id": 50002
+          },
+          {
+            "placement_app_id": "3051",
+            "data": {
+              "background_img": "http://amber-files.s3.amazonaws.com/upload/files/20190219020345126_1.jpg",
+              "copywriting": [
+                {
+                  "call_to_action": "立刻下载",
+                  "desc": "号称东半球最准天气预测应用，准到想哭啊大兄弟！",
+                  "lan": "zh",
+                  "title": "实时天气预报小工具"
+                },
+                {
+                  "call_to_action": "立刻下載",
+                  "desc": "最可靠的實時天氣小部件就在這裡！马上下载吧！",
+                  "lan": "zh",
+                  "title": "實時天氣预报小工具"
+                },
+                {
+                  "call_to_action": "Télécharger maintenant",
+                  "desc": "Le widget météo en temps réel le plus fiable est ici! Téléchargez-le maintenant!",
+                  "lan": "fr",
+                  "title": "☔️Gadget météo en temps réel"
+                },
+                {
+                  "call_to_action": "Jetzt downloaden",
+                  "desc": "Das zuverlässigste Echtzeit-Wetter-Widget ist da! Jetzt herunterladen!",
+                  "lan": "de",
+                  "title": "☔️Echtzeit-Wettervorhersage-Gadget"
+                },
+                {
+                  "call_to_action": "Scarica ora",
+                  "desc": "Il widget meteo in tempo reale più affidabile è qui! Scaricalo ORA!",
+                  "lan": "it",
+                  "title": "☔️Applet previsioni meteo in tempo reale"
+                },
+                {
+                  "call_to_action": "ダウンロード中",
+                  "desc": "最も信頼性の高いリアルタイム天気ウィジェットがここにあります！",
+                  "lan": "ja",
+                  "title": "☔️リアルタイム天気予報アプレット"
+                },
+                {
+                  "call_to_action": "지금 다운로드하십시오",
+                  "desc": "가장 신뢰할 수있는 실시간 날씨 위젯이 여기에 있습니다! 지금 다운로드하십시오!",
+                  "lan": "ko",
+                  "title": "☔️실시간 일기 예보 애플릿"
+                },
+                {
+                  "call_to_action": "Baixe Agora",
+                  "desc": "O widget meteorológico em tempo real mais confiável está aqui! ",
+                  "lan": "pt",
+                  "title": "☔️Applet de previsão do tempo em tempo real"
+                },
+                {
+                  "call_to_action": "Baixe Agora",
+                  "desc": "O widget meteorológico em tempo real mais confiável está aqui! Baixe agora!",
+                  "lan": "pt",
+                  "title": "☔️Applet de previsão do tempo em tempo real"
+                },
+                {
+                  "call_to_action": "Скачать сейчас",
+                  "desc": "Самый надежный онлайн-Виджет погоды здесь! Скачайте сейчас!",
+                  "lan": "ru",
+                  "title": "☔️Гаджет прогноза погоды в режиме реального времени"
+                },
+                {
+                  "call_to_action": "Descargar ahora",
+                  "desc": "¡El widget meteorológico en tiempo real más confiable está aquí! ¡Descárgalo ahora!",
+                  "lan": "es",
+                  "title": "☔️Gadget de pronóstico del tiempo en tiempo real"
+                },
+                {
+                  "call_to_action": "Download NOW",
+                  "desc": "😊The most reliable real-time weather widget is here! Download it NOW!",
+                  "lan": "en",
+                  "title": "☔️Real-time weather widget"
+                }
+              ],
+              "icon_img": "http://d1f4dp0syfp2oq.cloudfront.net/upload/files/20190325104430663_icon_72.png",
+              "jump_link": "market://details?id=mobi.infolife.ezweather.livewallpaper.wealwp.radar.barometer.storm",
+              "main_img": "http://d1f4dp0syfp2oq.cloudfront.net/upload/files/20190325104443854_dasdasdas.jpg",
+              "referrer_campaign": "ad_backup_flow",
+              "step": 0
+            },
+            "placement_id": "2819",
+            "platform_id": 50010
+          }
+        ],
+        "timeout": "5000",
+        "concurrent": "1",
+        "app_placement_id": "21211"
+      },
+      {
+        "ad": [
+          {
+            "placement_app_id": "ca-app-pub-3935620297880745",
+            "placement_id": "ca-app-pub-3935620297880745/5795162753",
+            "platform_id": 50002
+          }
+        ],
+        "timeout": "5000",
+        "concurrent": "1",
+        "app_placement_id": "21245"
+      },
+      {
+        "ad": [
+          {
+            "placement_app_id": "ca-app-pub-3935620297880745",
+            "placement_id": "ca-app-pub-3935620297880745/7271895955",
+            "platform_id": 50002
+          }
+        ],
+        "timeout": "5000",
+        "concurrent": "1",
+        "app_placement_id": "21246"
+      },
+      {
+        "ad": [
+          {
+            "placement_app_id": "ca-app-pub-3935620297880745",
+            "placement_id": "ca-app-pub-3935620297880745/3113159096",
+            "platform_id": 50002
+          }
+        ],
+        "timeout": "5000",
+        "concurrent": "1",
+        "app_placement_id": "21247"
+      },
+      {
+        "ad": [
+          {
+            "placement_app_id": "ca-app-pub-3935620297880745",
+            "placement_id": "ca-app-pub-3935620297880745/2608883757",
+            "platform_id": 50002
+          }
+        ],
+        "timeout": "5000",
+        "concurrent": "1",
+        "app_placement_id": "21267"
+      },
+      {
+        "ad": [
+          {
+            "placement_app_id": "ca-app-pub-3935620297880745",
+            "placement_id": "ca-app-pub-3935620297880745/9417834684",
+            "platform_id": 50002
+          }
+        ],
+        "timeout": "5000",
+        "concurrent": "1",
+        "app_placement_id": "21268"
+      },
+      {
+        "ad": [
+          {
+            "placement_app_id": "ca-app-pub-3935620297880745",
+            "placement_id": "ca-app-pub-3935620297880745/9594037423",
+            "platform_id": 50002
+          }
+        ],
+        "timeout": "5000",
+        "concurrent": "1",
+        "app_placement_id": "21289"
+      },
+      {
+        "ad": [
+          {
+            "placement_app_id": "ca-app-pub-3935620297880745",
+            "placement_id": "ca-app-pub-3935620297880745/3098843469",
+            "platform_id": 50002
+          }
+        ],
+        "timeout": "5000",
+        "concurrent": "1",
+        "app_placement_id": "21306"
+      },
+      {
+        "ad": [
+          {
+            "placement_app_id": "ca-app-pub-3935620297880745",
+            "placement_id": "ca-app-pub-3935620297880745/6080230021",
+            "platform_id": 50002
+          }
+        ],
+        "timeout": "5000",
+        "concurrent": "1",
+        "app_placement_id": "21307"
+      },
+      {
+        "ad": [
+          {
+            "placement_app_id": "ca-app-pub-3935620297880745",
+            "placement_id": "ca-app-pub-3935620297880745/1757841632",
+            "platform_id": 50002
+          }
+        ],
+        "timeout": "5000",
+        "concurrent": "1",
+        "app_placement_id": "21308"
+      },
+      {
+        "ad": [
+          {
+            "placement_app_id": "ca-app-pub-3935620297880745",
+            "placement_id": "ca-app-pub-3935620297880745/3791433441",
+            "platform_id": 50002
+          }
+        ],
+        "timeout": "5000",
+        "concurrent": "1",
+        "app_placement_id": "21309"
+      },
+      {
+        "ad": [],
+        "timeout": "5000",
+        "concurrent": "1",
+        "app_placement_id": "21310"
+      },
+      {
+        "ad": [
+          {
+            "placement_app_id": "ca-app-pub-3935620297880745",
+            "placement_id": "ca-app-pub-3935620297880745/2365427867",
+            "platform_id": 50002
+          }
+        ],
+        "timeout": "5000",
+        "concurrent": "1",
+        "app_placement_id": "21311"
+      },
+      {
+        "ad": [
+          {
+            "placement_app_id": "ca-app-pub-3935620297880745",
+            "placement_id": "ca-app-pub-3935620297880745/1592645512",
+            "platform_id": 50002
+          }
+        ],
+        "timeout": "5000",
+        "concurrent": "1",
+        "app_placement_id": "21312"
+      },
+      {
+        "ad": [
+          {
+            "placement_app_id": "ca-app-pub-3935620297880745",
+            "placement_id": "ca-app-pub-3935620297880745/4957175451",
+            "platform_id": 50002
+          }
+        ],
+        "timeout": "5000",
+        "concurrent": "1",
+        "app_placement_id": "21313"
+      },
+      {
+        "ad": [
+          {
+            "placement_app_id": "ca-app-pub-3935620297880745",
+            "placement_id": "ca-app-pub-3935620297880745/3069378711",
+            "platform_id": 50002
+          }
+        ],
+        "timeout": "5000",
+        "concurrent": "1",
+        "app_placement_id": "21314"
+      },
+      {
+        "ad": [
+          {
+            "placement_app_id": "ca-app-pub-3935620297880745",
+            "placement_id": "ca-app-pub-3935620297880745/1181581973",
+            "platform_id": 50002
+          }
+        ],
+        "timeout": "5000",
+        "concurrent": "1",
+        "app_placement_id": "21315"
+      },
+      {
+        "ad": [
+          {
+            "placement_app_id": "ca-app-pub-3935620297880745",
+            "placement_id": "ca-app-pub-3935620297880745/6980703568",
+            "platform_id": 50002
+          }
+        ],
+        "timeout": "5000",
+        "concurrent": "1",
+        "app_placement_id": "21316"
+      },
+      {
+        "ad": [
+          {
+            "placement_app_id": "ca-app-pub-3935620297880745",
+            "placement_id": "ca-app-pub-3935620297880745/1155206409",
+            "platform_id": 50002
+          }
+        ],
+        "timeout": "5000",
+        "concurrent": "1",
+        "app_placement_id": "21317"
+      },
+      {
+        "ad": [
+          {
+            "placement_app_id": "ca-app-pub-3935620297880745",
+            "placement_id": "ca-app-pub-3935620297880745/8356121147",
+            "platform_id": 50002
+          }
+        ],
+        "timeout": "5000",
+        "concurrent": "1",
+        "app_placement_id": "21318"
+      },
+      {
+        "ad": [
+          {
+            "placement_app_id": "ca-app-pub-3935620297880745",
+            "placement_id": "ca-app-pub-3935620297880745/1318857931",
+            "platform_id": 50002
+          }
+        ],
+        "timeout": "5000",
+        "concurrent": "1",
+        "app_placement_id": "21319"
+      },
+      {
+        "ad": [
+          {
+            "placement_app_id": "ca-app-pub-3935620297880745",
+            "placement_id": "ca-app-pub-3935620297880745/1790712795",
+            "platform_id": 50002
+          }
+        ],
+        "timeout": "5000",
+        "concurrent": "1",
+        "app_placement_id": "21320"
+      },
+      {
+        "ad": [
+          {
+            "placement_app_id": "ca-app-pub-3935620297880745",
+            "placement_id": "ca-app-pub-3935620297880745/1045850601",
+            "platform_id": 50002
+          }
+        ],
+        "timeout": "5000",
+        "concurrent": "1",
+        "app_placement_id": "21321"
+      },
+      {
+        "ad": [
+          {
+            "placement_app_id": "ca-app-pub-3935620297880745",
+            "placement_id": "ca-app-pub-3935620297880745/4645870603",
+            "platform_id": 50002
+          }
+        ],
+        "timeout": "5000",
+        "concurrent": "1",
+        "app_placement_id": "21331"
+      },
+      {
+        "ad": [
+          {
+            "placement_app_id": "ca-app-pub-3935620297880745",
+            "placement_id": "ca-app-pub-3935620297880745/1061848814",
+            "platform_id": 50002
+          }
+        ],
+        "timeout": "5000",
+        "concurrent": "1",
+        "app_placement_id": "21332"
+      },
+      {
+        "ad": [
+          {
+            "placement_app_id": "ca-app-pub-3935620297880745",
+            "placement_id": "ca-app-pub-3935620297880745/1943561939",
+            "platform_id": 50002
+          }
+        ],
+        "timeout": "5000",
+        "concurrent": "1",
+        "app_placement_id": "21333"
+      },
+      {
+        "ad": [
+          {
+            "placement_app_id": "ca-app-pub-3935620297880745",
+            "placement_id": "ca-app-pub-3935620297880745/9598814380",
+            "platform_id": 50002
+          }
+        ],
+        "timeout": "5000",
+        "concurrent": "1",
+        "app_placement_id": "21334"
+      },
+      {
+        "ad": [
+          {
+            "placement_app_id": "ca-app-pub-3935620297880745",
+            "placement_id": "ca-app-pub-3935620297880745/6321790646",
+            "platform_id": 50002
+          }
+        ],
+        "timeout": "5000",
+        "concurrent": "1",
+        "app_placement_id": "21335"
+      },
+      {
+        "ad": [
+          {
+            "placement_app_id": "ca-app-pub-3935620297880745",
+            "placement_id": "ca-app-pub-3935620297880745/3915119151",
+            "platform_id": 50002
+          }
+        ],
+        "timeout": "5000",
+        "concurrent": "1",
+        "app_placement_id": "21336"
+      },
+      {
+        "ad": [
+          {
+            "placement_app_id": "ca-app-pub-3935620297880745",
+            "placement_id": "ca-app-pub-3935620297880745/9849972112",
+            "platform_id": 50002
+          }
+        ],
+        "timeout": "5000",
+        "concurrent": "1",
+        "app_placement_id": "21337"
+      },
+      {
+        "ad": [
+          {
+            "placement_app_id": "ca-app-pub-3935620297880745",
+            "placement_id": "ca-app-pub-3935620297880745/8592730769",
+            "platform_id": 50002
+          }
+        ],
+        "timeout": "5000",
+        "concurrent": "1",
+        "app_placement_id": "21338"
+      },
+      {
+        "ad": [
+          {
+            "placement_app_id": "ca-app-pub-3935620297880745",
+            "placement_id": "ca-app-pub-3935620297880745/7088077405",
+            "platform_id": 50002
+          }
+        ],
+        "timeout": "5000",
+        "concurrent": "1",
+        "app_placement_id": "21339"
+      },
+      {
+        "ad": [
+          {
+            "placement_app_id": "ca-app-pub-3935620297880745",
+            "placement_id": "ca-app-pub-3935620297880745/2865885077",
+            "platform_id": 50002
+          }
+        ],
+        "timeout": "5000",
+        "concurrent": "1",
+        "app_placement_id": "21340"
+      },
+      {
+        "ad": [
+          {
+            "placement_app_id": "ca-app-pub-3935620297880745/4917333345",
+            "placement_id": "ca-app-pub-3935620297880745/4917333345",
+            "platform_id": 50002
+          }
+        ],
+        "timeout": "5000",
+        "concurrent": "1",
+        "app_placement_id": "21341"
+      },
+      {
+        "ad": [
+          {
+            "placement_app_id": "ca-app-pub-3935620297880745",
+            "placement_id": "ca-app-pub-3935620297880745/4534189965",
+            "platform_id": 50002
+          }
+        ],
+        "timeout": "5000",
+        "concurrent": "1",
+        "app_placement_id": "21342"
+      },
+      {
+        "ad": [
+          {
+            "placement_app_id": "ca-app-pub-3935620297880745",
+            "placement_id": "ca-app-pub-3935620297880745/2730153704",
+            "platform_id": 50002
+          }
+        ],
+        "timeout": "5000",
+        "concurrent": "1",
+        "app_placement_id": "21343"
+      },
+      {
+        "ad": [
+          {
+            "placement_app_id": "ca-app-pub-3935620297880745",
+            "placement_id": "ca-app-pub-3935620297880745/6094683642",
+            "platform_id": 50002
+          }
+        ],
+        "timeout": "5000",
+        "concurrent": "1",
+        "app_placement_id": "21344"
+      },
+      {
+        "ad": [
+          {
+            "placement_app_id": "ca-app-pub-3935620297880745",
+            "placement_id": "ca-app-pub-3935620297880745/3583946666",
+            "platform_id": 50002
+          }
+        ],
+        "timeout": "5000",
+        "concurrent": "1",
+        "app_placement_id": "21345"
+      },
+      {
+        "ad": [
+          {
+            "placement_app_id": "96e1b887a5b84b889dd95db823f81e34",
+            "placement_id": "96e1b887a5b84b889dd95db823f81e34",
+            "platform_id": 50003
+          },
+          {
+            "placement_app_id": "ca-app-pub-3935620297880745",
+            "placement_id": "ca-app-pub-3935620297880745/4051704159",
+            "platform_id": 50002
+          },
+          {
+            "placement_app_id": "3051",
+            "data": {
+              "background_img": "http://amber-files.s3.amazonaws.com/upload/files/20190219020345126_1.jpg",
+              "copywriting": [
+                {
+                  "call_to_action": "立刻下载",
+                  "desc": "号称东半球最准天气预测应用，准到想哭啊大兄弟！",
+                  "lan": "zh",
+                  "title": "实时天气预报小工具"
+                },
+                {
+                  "call_to_action": "立刻下載",
+                  "desc": "最可靠的實時天氣小部件就在這裡！马上下载吧！",
+                  "lan": "zh",
+                  "title": "實時天氣预报小工具"
+                },
+                {
+                  "call_to_action": "Télécharger maintenant",
+                  "desc": "Le widget météo en temps réel le plus fiable est ici! Téléchargez-le maintenant!",
+                  "lan": "fr",
+                  "title": "☔️Gadget météo en temps réel"
+                },
+                {
+                  "call_to_action": "Jetzt downloaden",
+                  "desc": "Das zuverlässigste Echtzeit-Wetter-Widget ist da! Jetzt herunterladen!",
+                  "lan": "de",
+                  "title": "☔️Echtzeit-Wettervorhersage-Gadget"
+                },
+                {
+                  "call_to_action": "Scarica ora",
+                  "desc": "Il widget meteo in tempo reale più affidabile è qui! Scaricalo ORA!",
+                  "lan": "it",
+                  "title": "☔️Applet previsioni meteo in tempo reale"
+                },
+                {
+                  "call_to_action": "ダウンロード中",
+                  "desc": "最も信頼性の高いリアルタイム天気ウィジェットがここにあります！",
+                  "lan": "ja",
+                  "title": "☔️リアルタイム天気予報アプレット"
+                },
+                {
+                  "call_to_action": "지금 다운로드하십시오",
+                  "desc": "가장 신뢰할 수있는 실시간 날씨 위젯이 여기에 있습니다! 지금 다운로드하십시오!",
+                  "lan": "ko",
+                  "title": "☔️실시간 일기 예보 애플릿"
+                },
+                {
+                  "call_to_action": "Baixe Agora",
+                  "desc": "O widget meteorológico em tempo real mais confiável está aqui! ",
+                  "lan": "pt",
+                  "title": "☔️Applet de previsão do tempo em tempo real"
+                },
+                {
+                  "call_to_action": "Baixe Agora",
+                  "desc": "O widget meteorológico em tempo real mais confiável está aqui! Baixe agora!",
+                  "lan": "pt",
+                  "title": "☔️Applet de previsão do tempo em tempo real"
+                },
+                {
+                  "call_to_action": "Скачать сейчас",
+                  "desc": "Самый надежный онлайн-Виджет погоды здесь! Скачайте сейчас!",
+                  "lan": "ru",
+                  "title": "☔️Гаджет прогноза погоды в режиме реального времени"
+                },
+                {
+                  "call_to_action": "Descargar ahora",
+                  "desc": "¡El widget meteorológico en tiempo real más confiable está aquí! ¡Descárgalo ahora!",
+                  "lan": "es",
+                  "title": "☔️Gadget de pronóstico del tiempo en tiempo real"
+                },
+                {
+                  "call_to_action": "Download NOW",
+                  "desc": "😊The most reliable real-time weather widget is here! Download it NOW!",
+                  "lan": "en",
+                  "title": "☔️Real-time weather widget"
+                }
+              ],
+              "icon_img": "http://d1f4dp0syfp2oq.cloudfront.net/upload/files/20190325104430663_icon_72.png",
+              "jump_link": "market://details?id=mobi.infolife.ezweather.livewallpaper.wealwp.radar.barometer.storm",
+              "main_img": "http://d1f4dp0syfp2oq.cloudfront.net/upload/files/20190325104443854_dasdasdas.jpg",
+              "referrer_campaign": "ad_backup_flow",
+              "step": 0
+            },
+            "placement_id": "2819",
+            "platform_id": 50010
+          }
+        ],
+        "timeout": "5000",
+        "concurrent": "1",
+        "app_placement_id": "21397"
+      },
+      {
+        "ad": [
+          {
+            "placement_app_id": "ca-app-pub-3935620297880745",
+            "placement_id": "ca-app-pub-3935620297880745/9719636560",
+            "platform_id": 50002
+          },
+          {
+            "placement_app_id": "f44a66807a7b46bfac6da6a042d5b8a1",
+            "placement_id": "f44a66807a7b46bfac6da6a042d5b8a1",
+            "platform_id": 50003
+          },
+          {
+            "placement_app_id": "ca-app-pub-3935620297880745",
+            "placement_id": "ca-app-pub-3935620297880745/8699388309",
+            "platform_id": 50002
+          },
+          {
+            "placement_app_id": "865ed538da894fd4ae76cf1d16d55eed",
+            "placement_id": "865ed538da894fd4ae76cf1d16d55eed",
+            "platform_id": 50003
+          },
+          {
+            "placement_app_id": "3051",
+            "data": {
+              "background_img": "http://amber-files.s3.amazonaws.com/upload/files/20190219020345126_1.jpg",
+              "copywriting": [
+                {
+                  "call_to_action": "立刻下载",
+                  "desc": "号称东半球最准天气预测应用，准到想哭啊大兄弟！",
+                  "lan": "zh",
+                  "title": "实时天气预报小工具"
+                },
+                {
+                  "call_to_action": "立刻下載",
+                  "desc": "最可靠的實時天氣小部件就在這裡！马上下载吧！",
+                  "lan": "zh",
+                  "title": "實時天氣预报小工具"
+                },
+                {
+                  "call_to_action": "Télécharger maintenant",
+                  "desc": "Le widget météo en temps réel le plus fiable est ici! Téléchargez-le maintenant!",
+                  "lan": "fr",
+                  "title": "☔️Gadget météo en temps réel"
+                },
+                {
+                  "call_to_action": "Jetzt downloaden",
+                  "desc": "Das zuverlässigste Echtzeit-Wetter-Widget ist da! Jetzt herunterladen!",
+                  "lan": "de",
+                  "title": "☔️Echtzeit-Wettervorhersage-Gadget"
+                },
+                {
+                  "call_to_action": "Scarica ora",
+                  "desc": "Il widget meteo in tempo reale più affidabile è qui! Scaricalo ORA!",
+                  "lan": "it",
+                  "title": "☔️Applet previsioni meteo in tempo reale"
+                },
+                {
+                  "call_to_action": "ダウンロード中",
+                  "desc": "最も信頼性の高いリアルタイム天気ウィジェットがここにあります！",
+                  "lan": "ja",
+                  "title": "☔️リアルタイム天気予報アプレット"
+                },
+                {
+                  "call_to_action": "지금 다운로드하십시오",
+                  "desc": "가장 신뢰할 수있는 실시간 날씨 위젯이 여기에 있습니다! 지금 다운로드하십시오!",
+                  "lan": "ko",
+                  "title": "☔️실시간 일기 예보 애플릿"
+                },
+                {
+                  "call_to_action": "Baixe Agora",
+                  "desc": "O widget meteorológico em tempo real mais confiável está aqui! ",
+                  "lan": "pt",
+                  "title": "☔️Applet de previsão do tempo em tempo real"
+                },
+                {
+                  "call_to_action": "Baixe Agora",
+                  "desc": "O widget meteorológico em tempo real mais confiável está aqui! Baixe agora!",
+                  "lan": "pt",
+                  "title": "☔️Applet de previsão do tempo em tempo real"
+                },
+                {
+                  "call_to_action": "Скачать сейчас",
+                  "desc": "Самый надежный онлайн-Виджет погоды здесь! Скачайте сейчас!",
+                  "lan": "ru",
+                  "title": "☔️Гаджет прогноза погоды в режиме реального времени"
+                },
+                {
+                  "call_to_action": "Descargar ahora",
+                  "desc": "¡El widget meteorológico en tiempo real más confiable está aquí! ¡Descárgalo ahora!",
+                  "lan": "es",
+                  "title": "☔️Gadget de pronóstico del tiempo en tiempo real"
+                },
+                {
+                  "call_to_action": "Download NOW",
+                  "desc": "😊The most reliable real-time weather widget is here! Download it NOW!",
+                  "lan": "en",
+                  "title": "☔️Real-time weather widget"
+                }
+              ],
+              "icon_img": "http://d1f4dp0syfp2oq.cloudfront.net/upload/files/20190325104430663_icon_72.png",
+              "jump_link": "market://details?id=mobi.infolife.ezweather.livewallpaper.wealwp.radar.barometer.storm",
+              "main_img": "http://d1f4dp0syfp2oq.cloudfront.net/upload/files/20190325104443854_dasdasdas.jpg",
+              "referrer_campaign": "ad_backup_flow",
+              "step": 0
+            },
+            "placement_id": "2819",
+            "platform_id": 50010
+          }
+        ],
+        "timeout": "5000",
+        "concurrent": "2",
+        "app_placement_id": "21804"
+      },
+      {
+        "ad": [
+          {
+            "placement_app_id": "ca-app-pub-3935620297880745",
+            "placement_id": "ca-app-pub-3935620297880745/6762318278",
+            "platform_id": 50002
+          },
+          {
+            "placement_app_id": "ca-app-pub-3935620297880745",
+            "placement_id": "ca-app-pub-3935620297880745/7497649594",
+            "platform_id": 50002
+          },
+          {
+            "placement_app_id": "ca-app-pub-3935620297880745",
+            "placement_id": "ca-app-pub-3935620297880745/3969468120",
+            "platform_id": 50002
+          },
+          {
+            "placement_app_id": "3051",
+            "data": {
+              "background_img": "http://amber-files.s3.amazonaws.com/upload/files/20190219020345126_1.jpg",
+              "copywriting": [
+                {
+                  "call_to_action": "立刻下载",
+                  "desc": "号称东半球最准天气预测应用，准到想哭啊大兄弟！",
+                  "lan": "zh",
+                  "title": "实时天气预报小工具"
+                },
+                {
+                  "call_to_action": "立刻下載",
+                  "desc": "最可靠的實時天氣小部件就在這裡！马上下载吧！",
+                  "lan": "zh",
+                  "title": "實時天氣预报小工具"
+                },
+                {
+                  "call_to_action": "Télécharger maintenant",
+                  "desc": "Le widget météo en temps réel le plus fiable est ici! Téléchargez-le maintenant!",
+                  "lan": "fr",
+                  "title": "☔️Gadget météo en temps réel"
+                },
+                {
+                  "call_to_action": "Jetzt downloaden",
+                  "desc": "Das zuverlässigste Echtzeit-Wetter-Widget ist da! Jetzt herunterladen!",
+                  "lan": "de",
+                  "title": "☔️Echtzeit-Wettervorhersage-Gadget"
+                },
+                {
+                  "call_to_action": "Scarica ora",
+                  "desc": "Il widget meteo in tempo reale più affidabile è qui! Scaricalo ORA!",
+                  "lan": "it",
+                  "title": "☔️Applet previsioni meteo in tempo reale"
+                },
+                {
+                  "call_to_action": "ダウンロード中",
+                  "desc": "最も信頼性の高いリアルタイム天気ウィジェットがここにあります！",
+                  "lan": "ja",
+                  "title": "☔️リアルタイム天気予報アプレット"
+                },
+                {
+                  "call_to_action": "지금 다운로드하십시오",
+                  "desc": "가장 신뢰할 수있는 실시간 날씨 위젯이 여기에 있습니다! 지금 다운로드하십시오!",
+                  "lan": "ko",
+                  "title": "☔️실시간 일기 예보 애플릿"
+                },
+                {
+                  "call_to_action": "Baixe Agora",
+                  "desc": "O widget meteorológico em tempo real mais confiável está aqui! ",
+                  "lan": "pt",
+                  "title": "☔️Applet de previsão do tempo em tempo real"
+                },
+                {
+                  "call_to_action": "Baixe Agora",
+                  "desc": "O widget meteorológico em tempo real mais confiável está aqui! Baixe agora!",
+                  "lan": "pt",
+                  "title": "☔️Applet de previsão do tempo em tempo real"
+                },
+                {
+                  "call_to_action": "Скачать сейчас",
+                  "desc": "Самый надежный онлайн-Виджет погоды здесь! Скачайте сейчас!",
+                  "lan": "ru",
+                  "title": "☔️Гаджет прогноза погоды в режиме реального времени"
+                },
+                {
+                  "call_to_action": "Descargar ahora",
+                  "desc": "¡El widget meteorológico en tiempo real más confiable está aquí! ¡Descárgalo ahora!",
+                  "lan": "es",
+                  "title": "☔️Gadget de pronóstico del tiempo en tiempo real"
+                },
+                {
+                  "call_to_action": "Download NOW",
+                  "desc": "😊The most reliable real-time weather widget is here! Download it NOW!",
+                  "lan": "en",
+                  "title": "☔️Real-time weather widget"
+                }
+              ],
+              "icon_img": "http://d1f4dp0syfp2oq.cloudfront.net/upload/files/20190325104430663_icon_72.png",
+              "jump_link": "market://details?id=mobi.infolife.ezweather.livewallpaper.wealwp.radar.barometer.storm",
+              "main_img": "http://d1f4dp0syfp2oq.cloudfront.net/upload/files/20190325104443854_dasdasdas.jpg",
+              "referrer_campaign": "ad_backup_flow",
+              "step": 0
+            },
+            "placement_id": "2819",
+            "platform_id": 50010
+          }
+        ],
+        "timeout": "5000",
+        "concurrent": "2",
+        "app_placement_id": "21805"
+      },
+      {
+        "ad": [
+          {
+            "placement_app_id": "ca-app-pub-3935620297880745",
+            "placement_id": "ca-app-pub-3935620297880745/1390161340",
+            "platform_id": 50002
+          }
+        ],
+        "timeout": "5000",
+        "concurrent": "1",
+        "app_placement_id": "22348"
+      },
+      {
+        "ad": [
+          {
+            "placement_app_id": "ca-app-pub-3935620297880745",
+            "placement_id": "ca-app-pub-3935620297880745/6997711247",
+            "platform_id": 50002
+          }
+        ],
+        "timeout": "5000",
+        "concurrent": "1",
+        "app_placement_id": "22349"
+      }
+    ]
+  },
+  "errno": 0,
+  "status": "ok"
+}
