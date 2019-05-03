@@ -1,0 +1,84 @@
+{
+  "data": {
+    "app_id": 60042,
+    "controller": [
+      {
+        "ad": [
+          {
+            "placement_app_id": "ca-app-pub-3935620297880745",
+            "placement_id": "ca-app-pub-3935620297880745/6935880305",
+            "platform_id": 50002
+          }
+        ],
+        "timeout": "5000",
+        "concurrent": "1",
+        "app_placement_id": "20486"
+      },
+      {
+        "ad": [
+          {
+            "placement_app_id": "ca-app-pub-3935620297880745",
+            "placement_id": "ca-app-pub-3935620297880745/5580957026",
+            "platform_id": 50002
+          },
+          {
+            "placement_app_id": "604708739711563",
+            "placement_id": "604708739711563_817633368419098",
+            "platform_id": 50001
+          }
+        ],
+        "timeout": "5000",
+        "concurrent": "1",
+        "app_placement_id": "20487"
+      },
+      {
+        "ad": [
+          {
+            "placement_app_id": "ca-app-pub-3935620297880745",
+            "placement_id": "ca-app-pub-3935620297880745/6862005917",
+            "platform_id": 50002
+          }
+        ],
+        "timeout": "5000",
+        "concurrent": "1",
+        "app_placement_id": "20488"
+      },
+      {
+        "ad": [
+          {
+            "placement_app_id": "604708739711563",
+            "placement_id": "604708739711563_1014934508688982",
+            "platform_id": 50001
+          },
+          {
+            "placement_app_id": "ca-app-pub-3935620297880745",
+            "placement_id": "ca-app-pub-3935620297880745/9874492697",
+            "platform_id": 50002
+          }
+        ],
+        "timeout": "5000",
+        "concurrent": "1",
+        "app_placement_id": "21116"
+      },
+      {
+        "ad": [
+          {
+            "placement_app_id": "604708739711563",
+            "placement_id": "604708739711563_1014934965355603",
+            "platform_id": 50001
+          },
+          {
+            "placement_app_id": "ca-app-pub-3935620297880745",
+            "placement_id": "ca-app-pub-3935620297880745/9042533420",
+            "platform_id": 50002
+          }
+        ],
+        "timeout": "5000",
+        "concurrent": "1",
+        "app_placement_id": "21117"
+      }
+    ]
+  },
+  "errno": 0,
+  "status": "ok"
+}
