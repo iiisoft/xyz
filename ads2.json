@@ -21,6 +21,11 @@
       },
       {
         "ad": [
+           {
+            "placement_app_id": "546763125731405",
+            "placement_id": "546763125731405_546769542397430",
+            "platform_id": 50001
+          },
           {
             "placement_app_id": "3051",
             "data": {
