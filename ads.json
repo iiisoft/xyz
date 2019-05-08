@@ -89,12 +89,12 @@
               "step": 0
             },
             "placement_id": "2819",
-            "platform_id": 20519
+            "platform_id": 50010
           }
         ],
         "timeout": "5000",
         "concurrent": "1",
-        "app_placement_id": "20055"
+        "app_placement_id": "20519"
       },
       {
         "ad": [
