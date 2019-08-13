@@ -1,0 +1,189 @@
+{
+  "status": "ok",
+  "errno": 0,
+  "data": {
+    "controller": [
+      {
+        "ad_style": "0",
+        "app_placement_id": "20049",
+        "ad": [
+          {
+            "platform_id": "50002",
+            "placement_id": "ca-app-pub-4206000415580410/2565180948",
+            "placement_app_id": "ca-app-pub-4206000415580410",
+            "ad_style": "0"
+          },
+          {
+            "platform_id": "50002",
+            "placement_id": "ca-app-pub-4206000415580410/3740970740",
+            "placement_app_id": "ca-app-pub-4206000415580410",
+            "ad_style": "0"
+          }
+        ],
+        "timeout": "5000",
+        "concurrent": "2"
+      },
+      {
+        "ad_style": "0",
+        "app_placement_id": "20050",
+        "ad": [
+          {
+            "platform_id": "50002",
+            "placement_id": "ca-app-pub-4206000415580410/4744621726",
+            "placement_app_id": "ca-app-pub-4206000415580410",
+            "ad_style": "0"
+          },
+          {
+            "platform_id": "50002",
+            "placement_id": "ca-app-pub-4206000415580410/5165733056",
+            "placement_app_id": "ca-app-pub-4206000415580410",
+            "ad_style": "0"
+          }
+        ],
+        "timeout": "5000",
+        "concurrent": "2"
+      },
+      {
+        "ad_style": "0",
+        "app_placement_id": "20051",
+        "ad": [
+          {
+            "platform_id": "50002",
+            "placement_id": "ca-app-pub-4206000415580410/5274625832",
+            "placement_app_id": "ca-app-pub-4206000415580410",
+            "ad_style": "0"
+          },
+          {
+            "platform_id": "50002",
+            "placement_id": "ca-app-pub-4206000415580410/1633682156",
+            "placement_app_id": "ca-app-pub-4206000415580410",
+            "ad_style": "0"
+          }
+        ],
+        "timeout": "5000",
+        "concurrent": "2"
+      },
+      {
+        "ad_style": "1",
+        "app_placement_id": "20056",
+        "ad": [
+          {
+            "platform_id": "50002",
+            "placement_id": "ca-app-pub-4206000415580410/9885267760",
+            "placement_app_id": "ca-app-pub-4206000415580410",
+            "ad_style": "1"
+          },
+          {
+            "platform_id": "50002",
+            "placement_id": "ca-app-pub-4206000415580410/3319859417",
+            "placement_app_id": "ca-app-pub-4206000415580410",
+            "ad_style": "1"
+          }
+        ],
+        "timeout": "5000",
+        "concurrent": "2"
+      },
+      {
+        "ad_style": "0",
+        "app_placement_id": "20060",
+        "ad": [
+          {
+            "platform_id": "50002",
+            "placement_id": "ca-app-pub-4206000415580410/3493558730",
+            "placement_app_id": "ca-app-pub-4206000415580410",
+            "ad_style": "0"
+          },
+          {
+            "platform_id": "50002",
+            "placement_id": "ca-app-pub-4206000415580410/4413449234",
+            "placement_app_id": "ca-app-pub-4206000415580410",
+            "ad_style": "0"
+          }
+        ],
+        "timeout": "5000",
+        "concurrent": "2"
+      },
+      {
+        "ad_style": "1",
+        "app_placement_id": "20062",
+        "ad": [
+          {
+            "platform_id": "50002",
+            "placement_id": "ca-app-pub-4206000415580410/5297594996",
+            "placement_app_id": "ca-app-pub-4206000415580410",
+            "ad_style": "-1"
+          },
+          {
+            "platform_id": "50002",
+            "placement_id": "ca-app-pub-4206000415580410/8707917462",
+            "placement_app_id": "ca-app-pub-4206000415580410",
+            "ad_style": "-1"
+          }
+        ],
+        "timeout": "5000",
+        "concurrent": "2"
+      },
+      {
+        "ad_style": "0",
+        "app_placement_id": "20337",
+        "ad": [
+          {
+            "platform_id": "50002",
+            "placement_id": "ca-app-pub-4206000415580410/1567794047",
+            "placement_app_id": "ca-app-pub-4206000415580410",
+            "ad_style": "0"
+          },
+          {
+            "platform_id": "50002",
+            "placement_id": "ca-app-pub-4206000415580410/1905144895",
+            "placement_app_id": "ca-app-pub-4206000415580410",
+            "ad_style": "0"
+          }
+        ],
+        "timeout": "5000",
+        "concurrent": "2"
+      },
+      {
+        "ad_style": "1",
+        "app_placement_id": "20388",
+        "ad": [
+          {
+            "platform_id": "50002",
+            "placement_id": "ca-app-pub-4206000415580410/6942930729",
+            "placement_app_id": "ca-app-pub-4206000415580410",
+            "ad_style": "-1"
+          },
+          {
+            "platform_id": "50002",
+            "placement_id": "ca-app-pub-4206000415580410/6200694693",
+            "placement_app_id": "ca-app-pub-4206000415580410",
+            "ad_style": "-1"
+          }
+        ],
+        "timeout": "5000",
+        "concurrent": "2"
+      },
+      {
+        "ad_style": "0",
+        "app_placement_id": "20416",
+        "ad": [
+          {
+            "platform_id": "50002",
+            "placement_id": "ca-app-pub-4206000415580410/8168382488",
+            "placement_app_id": "ca-app-pub-4206000415580410",
+            "ad_style": "0"
+          },
+          {
+            "platform_id": "50002",
+            "placement_id": "ca-app-pub-4206000415580410/1602974134",
+            "placement_app_id": "ca-app-pub-4206000415580410",
+            "ad_style": "0"
+          }
+        ],
+        "timeout": "5000",
+        "concurrent": "2"
+      }
+    ],
+    "app_id": 60014
+  }
+}
