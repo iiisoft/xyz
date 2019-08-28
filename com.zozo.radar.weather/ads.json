@@ -11,13 +11,13 @@
             "platform_id": "50002",
             "placement_id": "ca-app-pub-4206000415580410/2565180948",
             "placement_app_id": "ca-app-pub-4206000415580410",
-            "ad_style": "0"
+            "ad_style": "-1"
           },
           {
             "platform_id": "50002",
             "placement_id": "ca-app-pub-4206000415580410/3740970740",
             "placement_app_id": "ca-app-pub-4206000415580410",
-            "ad_style": "0"
+            "ad_style": "-1"
           }
         ],
         "timeout": "5000",
@@ -31,13 +31,13 @@
             "platform_id": "50002",
             "placement_id": "ca-app-pub-4206000415580410/4744621726",
             "placement_app_id": "ca-app-pub-4206000415580410",
-            "ad_style": "0"
+            "ad_style": "-1"
           },
           {
             "platform_id": "50002",
             "placement_id": "ca-app-pub-4206000415580410/5165733056",
             "placement_app_id": "ca-app-pub-4206000415580410",
-            "ad_style": "0"
+            "ad_style": "-1"
           }
         ],
         "timeout": "5000",
@@ -51,13 +51,13 @@
             "platform_id": "50002",
             "placement_id": "ca-app-pub-4206000415580410/5274625832",
             "placement_app_id": "ca-app-pub-4206000415580410",
-            "ad_style": "0"
+            "ad_style": "-1"
           },
           {
             "platform_id": "50002",
             "placement_id": "ca-app-pub-4206000415580410/1633682156",
             "placement_app_id": "ca-app-pub-4206000415580410",
-            "ad_style": "0"
+            "ad_style": "-1"
           }
         ],
         "timeout": "5000",
@@ -71,13 +71,13 @@
             "platform_id": "50002",
             "placement_id": "ca-app-pub-4206000415580410/9885267760",
             "placement_app_id": "ca-app-pub-4206000415580410",
-            "ad_style": "1"
+            "ad_style": "-1"
           },
           {
             "platform_id": "50002",
             "placement_id": "ca-app-pub-4206000415580410/3319859417",
             "placement_app_id": "ca-app-pub-4206000415580410",
-            "ad_style": "1"
+            "ad_style": "-1"
           }
         ],
         "timeout": "5000",
@@ -91,13 +91,13 @@
             "platform_id": "50002",
             "placement_id": "ca-app-pub-4206000415580410/3493558730",
             "placement_app_id": "ca-app-pub-4206000415580410",
-            "ad_style": "0"
+            "ad_style": "-1"
           },
           {
             "platform_id": "50002",
             "placement_id": "ca-app-pub-4206000415580410/4413449234",
             "placement_app_id": "ca-app-pub-4206000415580410",
-            "ad_style": "0"
+            "ad_style": "-1"
           }
         ],
         "timeout": "5000",
@@ -131,13 +131,13 @@
             "platform_id": "50002",
             "placement_id": "ca-app-pub-4206000415580410/1567794047",
             "placement_app_id": "ca-app-pub-4206000415580410",
-            "ad_style": "0"
+            "ad_style": "-1"
           },
           {
             "platform_id": "50002",
             "placement_id": "ca-app-pub-4206000415580410/1905144895",
             "placement_app_id": "ca-app-pub-4206000415580410",
-            "ad_style": "0"
+            "ad_style": "-1"
           }
         ],
         "timeout": "5000",

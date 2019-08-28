@@ -17,13 +17,13 @@
             "platform_id": "50001",
             "placement_id": "358426348421251_358429895087563",
             "placement_app_id": "358426348421251",
-            "ad_style": "-1"
+            "ad_style": "0"
           },
           {
             "platform_id": "50001",
             "placement_id": "358426348421251_358430521754167",
             "placement_app_id": "358426348421251",
-            "ad_style": "-1"
+            "ad_style": "0"
           },
           {
             "platform_id": "50002",
@@ -43,13 +43,13 @@
             "platform_id": "50002",
             "placement_id": "ca-app-pub-4206000415580410/8638375528",
             "placement_app_id": "ca-app-pub-4206000415580410",
-            "ad_style": "0"
+            "ad_style": "-1"
           },
           {
             "platform_id": "50002",
             "placement_id": "ca-app-pub-4206000415580410/9905271457",
             "placement_app_id": "ca-app-pub-4206000415580410",
-            "ad_style": "0"
+            "ad_style": "-1"
           }
         ],
         "timeout": "5000",
@@ -63,13 +63,13 @@
             "platform_id": "50002",
             "placement_id": "ca-app-pub-4206000415580410/5461547840",
             "placement_app_id": "ca-app-pub-4206000415580410",
-            "ad_style": "0"
+            "ad_style": "-1"
           },
           {
             "platform_id": "50002",
             "placement_id": "ca-app-pub-4206000415580410/1230658795",
             "placement_app_id": "ca-app-pub-4206000415580410",
-            "ad_style": "0"
+            "ad_style": "-1"
           }
         ],
         "timeout": "5000",
@@ -83,7 +83,7 @@
             "platform_id": "50002",
             "placement_id": "ca-app-pub-4206000415580410/3246448049",
             "placement_app_id": "ca-app-pub-4206000415580410",
-            "ad_style": "1"
+            "ad_style": "-1"
           },
           {
             "platform_id": "50001",
@@ -101,7 +101,7 @@
             "platform_id": "50002",
             "placement_id": "ca-app-pub-4206000415580410/6994121367",
             "placement_app_id": "ca-app-pub-4206000415580410",
-            "ad_style": "1"
+            "ad_style": "-1"
           }
         ],
         "timeout": "5000",
@@ -141,13 +141,13 @@
             "platform_id": "50002",
             "placement_id": "ca-app-pub-4206000415580410/2863304668",
             "placement_app_id": "ca-app-pub-4206000415580410",
-            "ad_style": "0"
+            "ad_style": "-1"
           },
           {
             "platform_id": "50002",
             "placement_id": "ca-app-pub-4206000415580410/7221352078",
             "placement_app_id": "ca-app-pub-4206000415580410",
-            "ad_style": "0"
+            "ad_style": "-1"
           }
         ],
         "timeout": "5000",
@@ -161,19 +161,19 @@
             "platform_id": "50002",
             "placement_id": "ca-app-pub-4206000415580410/1358651307",
             "placement_app_id": "ca-app-pub-4206000415580410",
-            "ad_style": "1"
+            "ad_style": "-1"
           },
           {
             "platform_id": "50002",
             "placement_id": "ca-app-pub-4206000415580410/7208269005",
             "placement_app_id": "ca-app-pub-4206000415580410",
-            "ad_style": "1"
+            "ad_style": "-1"
           },
           {
             "platform_id": "50002",
             "placement_id": "ca-app-pub-4206000415580410/4254802609",
             "placement_app_id": "ca-app-pub-4206000415580410",
-            "ad_style": "1"
+            "ad_style": "-1"
           }
         ],
         "timeout": "5000",
@@ -187,13 +187,13 @@
             "platform_id": "50002",
             "placement_id": "ca-app-pub-4206000415580410/1713874522",
             "placement_app_id": "ca-app-pub-4206000415580410",
-            "ad_style": "0"
+            "ad_style": "-1"
           },
           {
             "platform_id": "50002",
             "placement_id": "ca-app-pub-4206000415580410/9344952534",
             "placement_app_id": "ca-app-pub-4206000415580410",
-            "ad_style": "0"
+            "ad_style": "-1"
           }
         ],
         "timeout": "5000",
